@@ -1,0 +1,4858 @@
+21870  finished 
+21871  finished 
+21872  finished 
+21873  finished 
+21874  finished 
+21875  finished 
+21876  finished 
+21877  finished 
+21878  finished 
+21879  finished 
+21880  finished 
+21881  finished 
+21882  finished 
+21883  finished 
+21884  finished 
+21885  finished 
+21886  finished 
+21887  finished 
+21888  finished 
+21889  finished 
+21890  finished 
+21891  finished 
+21892  finished 
+21893  finished 
+21894  finished 
+21895  finished 
+21896  finished 
+21897  finished 
+21898  finished 
+21899  finished 
+21900  finished 
+21901  finished 
+21902  finished 
+21903  finished 
+21904  finished 
+21905  finished 
+21906  finished 
+21907  finished 
+21908  finished 
+21909  finished 
+21910  finished 
+21911  finished 
+21912  finished 
+21913  finished 
+21914  finished 
+21915  finished 
+21916  finished 
+21917  finished 
+21918  finished 
+21919  finished 
+21920  finished 
+21921  finished 
+21922  finished 
+21923  finished 
+21924  finished 
+21925  finished 
+21926  finished 
+21927  finished 
+21928  finished 
+21929  finished 
+21930  finished 
+21931  finished 
+21932  finished 
+21933  finished 
+21934  finished 
+21935  finished 
+21936  finished 
+21937  finished 
+21938  finished 
+21939  finished 
+21940  finished 
+21941  finished 
+21942  finished 
+21943  finished 
+21944  finished 
+21945  finished 
+21946  finished 
+21947  finished 
+21948  finished 
+21949  finished 
+21950  finished 
+21951  finished 
+21952  finished 
+21953  finished 
+21954  finished 
+21955  finished 
+21956  finished 
+21957  finished 
+21958  finished 
+21959  finished 
+21960  finished 
+21961  finished 
+21962  finished 
+21963  finished 
+21964  finished 
+21965  finished 
+21966  finished 
+21967  finished 
+21968  finished 
+21969  finished 
+21970  finished 
+21971  finished 
+21972  finished 
+21973  finished 
+21974  finished 
+21975  finished 
+21976  finished 
+21977  finished 
+21978  finished 
+21979  finished 
+21980  finished 
+21981  finished 
+21982  finished 
+21983  finished 
+21984  finished 
+21985  finished 
+21986  finished 
+21987  finished 
+21988  finished 
+21989  finished 
+21990  finished 
+21991  finished 
+21992  finished 
+21993  finished 
+21994  finished 
+21995  finished 
+21996  finished 
+21997  finished 
+21998  finished 
+21999  finished 
+22000  finished 
+22001  finished 
+22002  finished 
+22003  finished 
+22004  finished 
+22005  finished 
+22006  finished 
+22007  finished 
+22008  finished 
+22009  finished 
+22010  finished 
+22011  finished 
+22012  finished 
+22013  finished 
+22014  finished 
+22015  finished 
+22016  finished 
+22017  finished 
+22018  finished 
+22019  finished 
+22020  finished 
+22021  finished 
+22022  finished 
+22023  finished 
+22024  finished 
+22025  finished 
+22026  finished 
+22027  finished 
+22028  finished 
+22029  finished 
+22030  finished 
+22031  finished 
+22032  finished 
+22033  finished 
+22034  finished 
+22035  finished 
+22036  finished 
+22037  finished 
+22038  finished 
+22039  finished 
+22040  finished 
+22041  finished 
+22042  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+22043  finished 
+22044  finished 
+22045  finished 
+22046  finished 
+22047  finished 
+22048  finished 
+22049  finished 
+22050  finished 
+22051  finished 
+22052  finished 
+22053  finished 
+22054  finished 
+22055  finished 
+22056  finished 
+22057  finished 
+22058  finished 
+22059  finished 
+22060  finished 
+22061  finished 
+22062  finished 
+22063  finished 
+22064  finished 
+22065  finished 
+22066  finished 
+22067  finished 
+22068  finished 
+22069  finished 
+22070  finished 
+22071  finished 
+22072  finished 
+22073  finished 
+22074  finished 
+22075  finished 
+22076  finished 
+22077  finished 
+22078  finished 
+22079  finished 
+22080  finished 
+22081  finished 
+22082  finished 
+22083  finished 
+22084  finished 
+22085  finished 
+22086  finished 
+22087  finished 
+22088  finished 
+22089  finished 
+22090  finished 
+22091  finished 
+22092  finished 
+22093  finished 
+22094  finished 
+22095  finished 
+22096  finished 
+22097  finished 
+22098  finished 
+22099  finished 
+22100  finished 
+22101  finished 
+22102  finished 
+22103  finished 
+22104  finished 
+22105  finished 
+22106  finished 
+22107  finished 
+22108  finished 
+22109  finished 
+22110  finished 
+22111  finished 
+22112  finished 
+22113  finished 
+22114  finished 
+22115  finished 
+22116  finished 
+22117  finished 
+22118  finished 
+22119  finished 
+22120  finished 
+22121  finished 
+22122  finished 
+22123  finished 
+22124  finished 
+22125  finished 
+22126  finished 
+22127  finished 
+22128  finished 
+22129  finished 
+22130  finished 
+22131  finished 
+22132  finished 
+22133  finished 
+22134  finished 
+22135  finished 
+22136  finished 
+22137  finished 
+22138  finished 
+22139  finished 
+22140  finished 
+22141  finished 
+22142  finished 
+22143  finished 
+22144  finished 
+22145  finished 
+22146  finished 
+22147  finished 
+22148  finished 
+22149  finished 
+22150  finished 
+22151  finished 
+22152  finished 
+22153  finished 
+22154  finished 
+22155  finished 
+22156  finished 
+22157  finished 
+22158  finished 
+22159  finished 
+22160  finished 
+22161  finished 
+22162  finished 
+22163  finished 
+22164  finished 
+22165  finished 
+22166  finished 
+22167  finished 
+22168  finished 
+22169  finished 
+22170  finished 
+22171  finished 
+22172  finished 
+22173  finished 
+22174  finished 
+22175  finished 
+22176  finished 
+22177  finished 
+22178  finished 
+22179  finished 
+22180  finished 
+22181  finished 
+22182  finished 
+22183  finished 
+22184  finished 
+22185  finished 
+22186  finished 
+22187  finished 
+22188  finished 
+22189  finished 
+22190  finished 
+22191  finished 
+22192  finished 
+22193  finished 
+22194  finished 
+22195  finished 
+22196  finished 
+22197  finished 
+22198  finished 
+22199  finished 
+22200  finished 
+22201  finished 
+22202  finished 
+22203  finished 
+22204  finished 
+22205  finished 
+22206  finished 
+22207  finished 
+22208  finished 
+22209  finished 
+22210  finished 
+22211  finished 
+22212  finished 
+22213  finished 
+22214  finished 
+22215  finished 
+22216  finished 
+22217  finished 
+22218  finished 
+22219  finished 
+22220  finished 
+22221  finished 
+22222  finished 
+22223  finished 
+22224  finished 
+22225  finished 
+22226  finished 
+22227  finished 
+22228  finished 
+22229  finished 
+22230  finished 
+22231  finished 
+22232  finished 
+22233  finished 
+22234  finished 
+22235  finished 
+22236  finished 
+22237  finished 
+22238  finished 
+22239  finished 
+22240  finished 
+22241  finished 
+22242  finished 
+22243  finished 
+22244  finished 
+22245  finished 
+22246  finished 
+22247  finished 
+22248  finished 
+22249  finished 
+22250  finished 
+22251  finished 
+22252  finished 
+22253  finished 
+22254  finished 
+22255  finished 
+22256  finished 
+22257  finished 
+22258  finished 
+22259  finished 
+22260  finished 
+22261  finished 
+22262  finished 
+22263  finished 
+22264  finished 
+22265  finished 
+22266  finished 
+22267  finished 
+22268  finished 
+22269  finished 
+22270  finished 
+22271  finished 
+22272  finished 
+22273  finished 
+22274  finished 
+22275  finished 
+22276  finished 
+22277  finished 
+22278  finished 
+22279  finished 
+22280  finished 
+22281  finished 
+22282  finished 
+22283  finished 
+22284  finished 
+22285  finished 
+22286  finished 
+22287  finished 
+22288  finished 
+22289  finished 
+22290  finished 
+22291  finished 
+22292  finished 
+22293  finished 
+22294  finished 
+22295  finished 
+22296  finished 
+22297  finished 
+22298  finished 
+22299  finished 
+22300  finished 
+22301  finished 
+22302  finished 
+22303  finished 
+22304  finished 
+22305  finished 
+22306  finished 
+22307  finished 
+22308  finished 
+22309  finished 
+22310  finished 
+22311  finished 
+22312  finished 
+22313  finished 
+22314  finished 
+22315  finished 
+22316  finished 
+22317  finished 
+22318  finished 
+22319  finished 
+22320  finished 
+22321  finished 
+22322  finished 
+22323  finished 
+22324  finished 
+22325  finished 
+22326  finished 
+22327  finished 
+22328  finished 
+22329  finished 
+22330  finished 
+22331  finished 
+22332  finished 
+22333  finished 
+22334  finished 
+22335  finished 
+22336  finished 
+22337  finished 
+22338  finished 
+22339  finished 
+22340  finished 
+22341  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+22342  finished 
+22343  finished 
+22344  finished 
+22345  finished 
+22346  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+22347  finished 
+22348  finished 
+22349  finished 
+22350  finished 
+22351  finished 
+22352  finished 
+22353  finished 
+22354  finished 
+22355  finished 
+22356  finished 
+22357  finished 
+22358  finished 
+22359  finished 
+22360  finished 
+22361  finished 
+22362  finished 
+22363  finished 
+22364  finished 
+22365  finished 
+22366  finished 
+22367  finished 
+22368  finished 
+22369  finished 
+22370  finished 
+22371  finished 
+22372  finished 
+22373  finished 
+22374  finished 
+22375  finished 
+22376  finished 
+22377  finished 
+22378  finished 
+22379  finished 
+22380  finished 
+22381  finished 
+22382  finished 
+22383  finished 
+22384  finished 
+22385  finished 
+22386  finished 
+22387  finished 
+22388  finished 
+22389  finished 
+22390  finished 
+22391  finished 
+22392  finished 
+22393  finished 
+22394  finished 
+22395  finished 
+22396  finished 
+22397  finished 
+22398  finished 
+22399  finished 
+22400  finished 
+22401  finished 
+22402  finished 
+22403  finished 
+22404  finished 
+22405  finished 
+22406  finished 
+22407  finished 
+22408  finished 
+22409  finished 
+22410  finished 
+22411  finished 
+22412  finished 
+22413  finished 
+22414  finished 
+22415  finished 
+22416  finished 
+22417  finished 
+22418  finished 
+22419  finished 
+22420  finished 
+22421  finished 
+22422  finished 
+22423  finished 
+22424  finished 
+22425  finished 
+22426  finished 
+22427  finished 
+22428  finished 
+22429  finished 
+22430  finished 
+22431  finished 
+22432  finished 
+22433  finished 
+22434  finished 
+22435  finished 
+22436  finished 
+22437  finished 
+22438  finished 
+22439  finished 
+22440  finished 
+22441  finished 
+22442  finished 
+22443  finished 
+22444  finished 
+22445  finished 
+22446  finished 
+22447  finished 
+22448  finished 
+22449  finished 
+22450  finished 
+22451  finished 
+22452  finished 
+22453  finished 
+22454  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+22455  finished 
+22456  finished 
+22457  finished 
+22458  finished 
+22459  finished 
+22460  finished 
+22461  finished 
+22462  finished 
+22463  finished 
+22464  finished 
+22465  finished 
+22466  finished 
+22467  finished 
+22468  finished 
+22469  finished 
+22470  finished 
+22471  finished 
+22472  finished 
+22473  finished 
+22474  finished 
+22475  finished 
+22476  finished 
+22477  finished 
+22478  finished 
+22479  finished 
+22480  finished 
+22481  finished 
+22482  finished 
+22483  finished 
+22484  finished 
+22485  finished 
+22486  finished 
+22487  finished 
+22488  finished 
+22489  finished 
+22490  finished 
+22491  finished 
+22492  finished 
+22493  finished 
+22494  finished 
+22495  finished 
+22496  finished 
+22497  finished 
+22498  finished 
+22499  finished 
+22500  finished 
+22501  finished 
+22502  finished 
+22503  finished 
+22504  finished 
+22505  finished 
+22506  finished 
+22507  finished 
+22508  finished 
+22509  finished 
+22510  finished 
+22511  finished 
+22512  finished 
+22513  finished 
+22514  finished 
+22515  finished 
+22516  finished 
+22517  finished 
+22518  finished 
+22519  finished 
+22520  finished 
+22521  finished 
+22522  finished 
+22523  finished 
+22524  finished 
+22525  finished 
+22526  finished 
+22527  finished 
+22528  finished 
+22529  finished 
+22530  finished 
+22531  finished 
+22532  finished 
+22533  finished 
+22534  finished 
+22535  finished 
+22536  finished 
+22537  finished 
+22538  finished 
+22539  finished 
+22540  finished 
+22541  finished 
+22542  finished 
+22543  finished 
+22544  finished 
+22545  finished 
+22546  finished 
+22547  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+22548  finished 
+22549  finished 
+22550  finished 
+22551  finished 
+22552  finished 
+22553  finished 
+22554  finished 
+22555  finished 
+22556  finished 
+22557  finished 
+22558  finished 
+22559  finished 
+22560  finished 
+22561  finished 
+22562  finished 
+22563  finished 
+22564  finished 
+22565  finished 
+22566  finished 
+22567  finished 
+22568  finished 
+22569  finished 
+22570  finished 
+22571  finished 
+22572  finished 
+22573  finished 
+22574  finished 
+22575  finished 
+22576  finished 
+22577  finished 
+22578  finished 
+22579  finished 
+22580  finished 
+22581  finished 
+22582  finished 
+22583  finished 
+22584  finished 
+22585  finished 
+22586  finished 
+22587  finished 
+22588  finished 
+22589  finished 
+22590  finished 
+22591  finished 
+22592  finished 
+22593  finished 
+22594  finished 
+22595  finished 
+22596  finished 
+22597  finished 
+22598  finished 
+22599  finished 
+22600  finished 
+22601  finished 
+22602  finished 
+22603  finished 
+22604  finished 
+22605  finished 
+22606  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+22607  finished 
+22608  finished 
+22609  finished 
+22610  finished 
+22611  finished 
+22612  finished 
+22613  finished 
+22614  finished 
+22615  finished 
+22616  finished 
+22617  finished 
+22618  finished 
+22619  finished 
+22620  finished 
+22621  finished 
+22622  finished 
+22623  finished 
+22624  finished 
+22625  finished 
+22626  finished 
+22627  finished 
+22628  finished 
+22629  finished 
+22630  finished 
+22631  finished 
+22632  finished 
+22633  finished 
+22634  finished 
+22635  finished 
+22636  finished 
+22637  finished 
+22638  finished 
+22639  finished 
+22640  finished 
+22641  finished 
+22642  finished 
+22643  finished 
+22644  finished 
+22645  finished 
+22646  finished 
+22647  finished 
+22648  finished 
+22649  finished 
+22650  finished 
+22651  finished 
+22652  finished 
+22653  finished 
+22654  finished 
+22655  finished 
+22656  finished 
+22657  finished 
+22658  finished 
+22659  finished 
+22660  finished 
+22661  finished 
+22662  finished 
+22663  finished 
+22664  finished 
+22665  finished 
+22666  finished 
+22667  finished 
+22668  finished 
+22669  finished 
+22670  finished 
+22671  finished 
+22672  finished 
+22673  finished 
+22674  finished 
+22675  finished 
+22676  finished 
+22677  finished 
+22678  finished 
+22679  finished 
+22680  finished 
+22681  finished 
+22682  finished 
+22683  finished 
+22684  finished 
+22685  finished 
+22686  finished 
+22687  finished 
+22688  finished 
+22689  finished 
+22690  finished 
+22691  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+22692  finished 
+22693  finished 
+22694  finished 
+22695  finished 
+22696  finished 
+22697  finished 
+22698  finished 
+22699  finished 
+22700  finished 
+22701  finished 
+22702  finished 
+22703  finished 
+22704  finished 
+22705  finished 
+22706  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+22707  finished 
+22708  finished 
+22709  finished 
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+22710  finished 
+22711  finished 
+22712  finished 
+22713  finished 
+22714  finished 
+22715  finished 
+22716  finished 
+22717  finished 
+22718  finished 
+22719  finished 
+22720  finished 
+22721  finished 
+22722  finished 
+22723  finished 
+22724  finished 
+22725  finished 
+22726  finished 
+22727  finished 
+22728  finished 
+22729  finished 
+22730  finished 
+22731  finished 
+22732  finished 
+22733  finished 
+22734  finished 
+22735  finished 
+22736  finished 
+22737  finished 
+22738  finished 
+22739  finished 
+22740  finished 
+22741  finished 
+22742  finished 
+22743  finished 
+22744  finished 
+22745  finished 
+22746  finished 
+22747  finished 
+22748  finished 
+22749  finished 
+22750  finished 
+22751  finished 
+22752  finished 
+22753  finished 
+22754  finished 
+22755  finished 
+22756  finished 
+22757  finished 
+22758  finished 
+22759  finished 
+22760  finished 
+22761  finished 
+22762  finished 
+22763  finished 
+22764  finished 
+22765  finished 
+22766  finished 
+22767  finished 
+22768  finished 
+22769  finished 
+22770  finished 
+22771  finished 
+22772  finished 
+22773  finished 
+22774  finished 
+22775  finished 
+22776  finished 
+22777  finished 
+22778  finished 
+22779  finished 
+22780  finished 
+22781  finished 
+22782  finished 
+22783  finished 
+22784  finished 
+22785  finished 
+22786  finished 
+22787  finished 
+22788  finished 
+22789  finished 
+22790  finished 
+22791  finished 
+22792  finished 
+22793  finished 
+22794  finished 
+22795  finished 
+22796  finished 
+22797  finished 
+22798  finished 
+22799  finished 
+22800  finished 
+22801  finished 
+22802  finished 
+22803  finished 
+22804  finished 
+22805  finished 
+22806  finished 
+22807  finished 
+22808  finished 
+22809  finished 
+22810  finished 
+22811  finished 
+22812  finished 
+22813  finished 
+22814  finished 
+22815  finished 
+22816  finished 
+22817  finished 
+22818  finished 
+22819  finished 
+22820  finished 
+22821  finished 
+22822  finished 
+22823  finished 
+22824  finished 
+22825  finished 
+22826  finished 
+22827  finished 
+22828  finished 
+22829  finished 
+22830  finished 
+22831  finished 
+22832  finished 
+22833  finished 
+22834  finished 
+22835  finished 
+22836  finished 
+22837  finished 
+22838  finished 
+22839  finished 
+22840  finished 
+22841  finished 
+22842  finished 
+22843  finished 
+22844  finished 
+22845  finished 
+22846  finished 
+22847  finished 
+22848  finished 
+22849  finished 
+22850  finished 
+22851  finished 
+22852  finished 
+22853  finished 
+22854  finished 
+22855  finished 
+22856  finished 
+22857  finished 
+22858  finished 
+22859  finished 
+22860  finished 
+22861  finished 
+22862  finished 
+22863  finished 
+22864  finished 
+22865  finished 
+22866  finished 
+22867  finished 
+22868  finished 
+22869  finished 
+22870  finished 
+22871  finished 
+22872  finished 
+22873  finished 
+22874  finished 
+22875  finished 
+22876  finished 
+22877  finished 
+22878  finished 
+22879  finished 
+22880  finished 
+22881  finished 
+22882  finished 
+22883  finished 
+22884  finished 
+22885  finished 
+22886  finished 
+22887  finished 
+22888  finished 
+22889  finished 
+22890  finished 
+22891  finished 
+22892  finished 
+22893  finished 
+22894  finished 
+22895  finished 
+22896  finished 
+22897  finished 
+22898  finished 
+22899  finished 
+22900  finished 
+22901  finished 
+22902  finished 
+22903  finished 
+22904  finished 
+22905  finished 
+22906  finished 
+22907  finished 
+22908  finished 
+22909  finished 
+22910  finished 
+22911  finished 
+22912  finished 
+22913  finished 
+22914  finished 
+22915  finished 
+22916  finished 
+22917  finished 
+22918  finished 
+22919  finished 
+22920  finished 
+22921  finished 
+22922  finished 
+22923  finished 
+22924  finished 
+22925  finished 
+22926  finished 
+22927  finished 
+22928  finished 
+22929  finished 
+22930  finished 
+22931  finished 
+22932  finished 
+22933  finished 
+22934  finished 
+22935  finished 
+22936  finished 
+22937  finished 
+22938  finished 
+22939  finished 
+22940  finished 
+22941  finished 
+22942  finished 
+22943  finished 
+22944  finished 
+22945  finished 
+22946  finished 
+22947  finished 
+22948  finished 
+22949  finished 
+22950  finished 
+22951  finished 
+22952  finished 
+22953  finished 
+22954  finished 
+22955  finished 
+22956  finished 
+22957  finished 
+22958  finished 
+22959  finished 
+22960  finished 
+22961  finished 
+22962  finished 
+22963  finished 
+22964  finished 
+22965  finished 
+22966  finished 
+22967  finished 
+22968  finished 
+22969  finished 
+22970  finished 
+22971  finished 
+22972  finished 
+22973  finished 
+22974  finished 
+22975  finished 
+22976  finished 
+22977  finished 
+22978  finished 
+22979  finished 
+22980  finished 
+22981  finished 
+22982  finished 
+22983  finished 
+22984  finished 
+22985  finished 
+22986  finished 
+22987  finished 
+22988  finished 
+22989  finished 
+22990  finished 
+22991  finished 
+22992  finished 
+22993  finished 
+22994  finished 
+22995  finished 
+22996  finished 
+22997  finished 
+22998  finished 
+22999  finished 
+23000  finished 
+23001  finished 
+23002  finished 
+23003  finished 
+23004  finished 
+23005  finished 
+23006  finished 
+23007  finished 
+23008  finished 
+23009  finished 
+23010  finished 
+23011  finished 
+23012  finished 
+23013  finished 
+23014  finished 
+23015  finished 
+23016  finished 
+23017  finished 
+23018  finished 
+23019  finished 
+23020  finished 
+23021  finished 
+23022  finished 
+23023  finished 
+23024  finished 
+23025  finished 
+23026  finished 
+23027  finished 
+23028  finished 
+23029  finished 
+23030  finished 
+23031  finished 
+23032  finished 
+23033  finished 
+23034  finished 
+23035  finished 
+23036  finished 
+23037  finished 
+23038  finished 
+23039  finished 
+23040  finished 
+23041  finished 
+23042  finished 
+23043  finished 
+23044  finished 
+23045  finished 
+23046  finished 
+23047  finished 
+23048  finished 
+23049  finished 
+23050  finished 
+23051  finished 
+23052  finished 
+23053  finished 
+23054  finished 
+23055  finished 
+23056  finished 
+23057  finished 
+23058  finished 
+23059  finished 
+23060  finished 
+23061  finished 
+23062  finished 
+23063  finished 
+23064  finished 
+23065  finished 
+23066  finished 
+23067  finished 
+23068  finished 
+23069  finished 
+23070  finished 
+23071  finished 
+23072  finished 
+23073  finished 
+23074  finished 
+23075  finished 
+23076  finished 
+23077  finished 
+23078  finished 
+23079  finished 
+23080  finished 
+23081  finished 
+23082  finished 
+23083  finished 
+23084  finished 
+23085  finished 
+23086  finished 
+23087  finished 
+23088  finished 
+23089  finished 
+23090  finished 
+23091  finished 
+23092  finished 
+23093  finished 
+23094  finished 
+23095  finished 
+23096  finished 
+23097  finished 
+23098  finished 
+23099  finished 
+23100  finished 
+23101  finished 
+23102  finished 
+23103  finished 
+23104  finished 
+23105  finished 
+23106  finished 
+23107  finished 
+23108  finished 
+23109  finished 
+23110  finished 
+23111  finished 
+23112  finished 
+23113  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+23114  finished 
+23115  finished 
+23116  finished 
+23117  finished 
+23118  finished 
+23119  finished 
+23120  finished 
+23121  finished 
+23122  finished 
+23123  finished 
+23124  finished 
+23125  finished 
+23126  finished 
+23127  finished 
+23128  finished 
+23129  finished 
+23130  finished 
+23131  finished 
+23132  finished 
+23133  finished 
+23134  finished 
+23135  finished 
+23136  finished 
+23137  finished 
+23138  finished 
+23139  finished 
+23140  finished 
+23141  finished 
+23142  finished 
+23143  finished 
+23144  finished 
+23145  finished 
+23146  finished 
+23147  finished 
+23148  finished 
+23149  finished 
+23150  finished 
+23151  finished 
+23152  finished 
+23153  finished 
+23154  finished 
+23155  finished 
+23156  finished 
+23157  finished 
+23158  finished 
+23159  finished 
+23160  finished 
+23161  finished 
+23162  finished 
+23163  finished 
+23164  finished 
+23165  finished 
+23166  finished 
+23167  finished 
+23168  finished 
+23169  finished 
+23170  finished 
+23171  finished 
+23172  finished 
+23173  finished 
+23174  finished 
+23175  finished 
+23176  finished 
+23177  finished 
+23178  finished 
+23179  finished 
+23180  finished 
+23181  finished 
+23182  finished 
+23183  finished 
+23184  finished 
+23185  finished 
+23186  finished 
+23187  finished 
+23188  finished 
+23189  finished 
+23190  finished 
+23191  finished 
+23192  finished 
+23193  finished 
+23194  finished 
+23195  finished 
+23196  finished 
+23197  finished 
+23198  finished 
+23199  finished 
+23200  finished 
+23201  finished 
+23202  finished 
+23203  finished 
+23204  finished 
+23205  finished 
+23206  finished 
+23207  finished 
+23208  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23209  finished 
+23210  finished 
+23211  finished 
+23212  finished 
+23213  finished 
+23214  finished 
+23215  finished 
+23216  finished 
+23217  finished 
+23218  finished 
+23219  finished 
+23220  finished 
+23221  finished 
+23222  finished 
+23223  finished 
+23224  finished 
+23225  finished 
+23226  finished 
+23227  finished 
+23228  finished 
+23229  finished 
+23230  finished 
+23231  finished 
+23232  finished 
+23233  finished 
+23234  finished 
+23235  finished 
+23236  finished 
+23237  finished 
+23238  finished 
+23239  finished 
+23240  finished 
+23241  finished 
+23242  finished 
+23243  finished 
+23244  finished 
+23245  finished 
+23246  finished 
+23247  finished 
+23248  finished 
+23249  finished 
+23250  finished 
+23251  finished 
+23252  finished 
+23253  finished 
+23254  finished 
+23255  finished 
+23256  finished 
+23257  finished 
+23258  finished 
+23259  finished 
+23260  finished 
+23261  finished 
+23262  finished 
+23263  finished 
+23264  finished 
+23265  finished 
+23266  finished 
+23267  finished 
+23268  finished 
+23269  finished 
+23270  finished 
+23271  finished 
+23272  finished 
+23273  finished 
+23274  finished 
+23275  finished 
+23276  finished 
+23277  finished 
+23278  finished 
+23279  finished 
+23280  finished 
+23281  finished 
+23282  finished 
+23283  finished 
+23284  finished 
+23285  finished 
+23286  finished 
+23287  finished 
+23288  finished 
+23289  finished 
+23290  finished 
+23291  finished 
+23292  finished 
+23293  finished 
+23294  finished 
+23295  finished 
+23296  finished 
+23297  finished 
+23298  finished 
+23299  finished 
+23300  finished 
+23301  finished 
+23302  finished 
+23303  finished 
+23304  finished 
+23305  finished 
+23306  finished 
+23307  finished 
+23308  finished 
+23309  finished 
+23310  finished 
+23311  finished 
+23312  finished 
+23313  finished 
+23314  finished 
+23315  finished 
+23316  finished 
+23317  finished 
+23318  finished 
+23319  finished 
+23320  finished 
+23321  finished 
+23322  finished 
+23323  finished 
+23324  finished 
+23325  finished 
+23326  finished 
+23327  finished 
+23328  finished 
+23329  finished 
+23330  finished 
+23331  finished 
+23332  finished 
+23333  finished 
+23334  finished 
+23335  finished 
+23336  finished 
+23337  finished 
+23338  finished 
+23339  finished 
+23340  finished 
+23341  finished 
+23342  finished 
+23343  finished 
+23344  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+Error : Column `LTFstatuss` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23345  finished 
+23346  finished 
+23347  finished 
+23348  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23349  finished 
+23350  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23351  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23352  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23353  finished 
+23354  finished 
+23355  finished 
+23356  finished 
+23357  finished 
+23358  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23359  finished 
+23360  finished 
+23361  finished 
+23362  finished 
+23363  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23364  finished 
+23365  finished 
+23366  finished 
+23367  finished 
+23368  finished 
+23369  finished 
+23370  finished 
+23371  finished 
+23372  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23373  finished 
+23374  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23375  finished 
+23376  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23377  finished 
+Error : Column `LTFstatuss` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23378  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23379  finished 
+23380  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23381  finished 
+23382  finished 
+23383  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23384  finished 
+23385  finished 
+23386  finished 
+23387  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23388  finished 
+23389  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23390  finished 
+23391  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23392  finished 
+Error : Column `LTFstatuss` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23393  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23394  finished 
+23395  finished 
+23396  finished 
+23397  finished 
+Error : Column `LTFstatuss` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23398  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23399  finished 
+23400  finished 
+23401  finished 
+23402  finished 
+23403  finished 
+23404  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23405  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23406  finished 
+23407  finished 
+23408  finished 
+23409  finished 
+23410  finished 
+23411  finished 
+23412  finished 
+23413  finished 
+23414  finished 
+23415  finished 
+23416  finished 
+23417  finished 
+23418  finished 
+23419  finished 
+23420  finished 
+23421  finished 
+23422  finished 
+23423  finished 
+23424  finished 
+23425  finished 
+23426  finished 
+23427  finished 
+23428  finished 
+23429  finished 
+23430  finished 
+23431  finished 
+23432  finished 
+23433  finished 
+23434  finished 
+23435  finished 
+23436  finished 
+23437  finished 
+23438  finished 
+23439  finished 
+23440  finished 
+23441  finished 
+23442  finished 
+23443  finished 
+23444  finished 
+23445  finished 
+23446  finished 
+23447  finished 
+23448  finished 
+23449  finished 
+23450  finished 
+23451  finished 
+23452  finished 
+23453  finished 
+23454  finished 
+23455  finished 
+23456  finished 
+23457  finished 
+23458  finished 
+23459  finished 
+23460  finished 
+23461  finished 
+23462  finished 
+23463  finished 
+23464  finished 
+23465  finished 
+23466  finished 
+23467  finished 
+23468  finished 
+23469  finished 
+23470  finished 
+23471  finished 
+23472  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23473  finished 
+23474  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23475  finished 
+23476  finished 
+23477  finished 
+23478  finished 
+23479  finished 
+23480  finished 
+23481  finished 
+23482  finished 
+23483  finished 
+23484  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23485  finished 
+23486  finished 
+23487  finished 
+23488  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23489  finished 
+23490  finished 
+23491  finished 
+23492  finished 
+23493  finished 
+23494  finished 
+23495  finished 
+23496  finished 
+23497  finished 
+23498  finished 
+Error : Column `LTFstatuss` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23499  finished 
+23500  finished 
+23501  finished 
+23502  finished 
+23503  finished 
+23504  finished 
+23505  finished 
+23506  finished 
+23507  finished 
+23508  finished 
+23509  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23510  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23511  finished 
+23512  finished 
+23513  finished 
+23514  finished 
+23515  finished 
+23516  finished 
+23517  finished 
+23518  finished 
+23519  finished 
+23520  finished 
+23521  finished 
+23522  finished 
+23523  finished 
+23524  finished 
+23525  finished 
+23526  finished 
+23527  finished 
+23528  finished 
+23529  finished 
+23530  finished 
+23531  finished 
+23532  finished 
+23533  finished 
+23534  finished 
+23535  finished 
+23536  finished 
+23537  finished 
+23538  finished 
+Error : Column `LTFstatuss` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23539  finished 
+23540  finished 
+23541  finished 
+23542  finished 
+23543  finished 
+23544  finished 
+23545  finished 
+23546  finished 
+23547  finished 
+23548  finished 
+23549  finished 
+23550  finished 
+23551  finished 
+23552  finished 
+23553  finished 
+23554  finished 
+23555  finished 
+23556  finished 
+23557  finished 
+23558  finished 
+23559  finished 
+23560  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+23561  finished 
+23562  finished 
+23563  finished 
+23564  finished 
+23565  finished 
+23566  finished 
+23567  finished 
+23568  finished 
+23569  finished 
+23570  finished 
+23571  finished 
+23572  finished 
+23573  finished 
+23574  finished 
+23575  finished 
+23576  finished 
+23577  finished 
+23578  finished 
+23579  finished 
+23580  finished 
+23581  finished 
+23582  finished 
+23583  finished 
+23584  finished 
+23585  finished 
+23586  finished 
+23587  finished 
+23588  finished 
+23589  finished 
+23590  finished 
+23591  finished 
+23592  finished 
+23593  finished 
+23594  finished 
+23595  finished 
+23596  finished 
+23597  finished 
+23598  finished 
+23599  finished 
+23600  finished 
+23601  finished 
+23602  finished 
+23603  finished 
+23604  finished 
+23605  finished 
+23606  finished 
+23607  finished 
+23608  finished 
+23609  finished 
+23610  finished 
+23611  finished 
+23612  finished 
+23613  finished 
+23614  finished 
+23615  finished 
+23616  finished 
+23617  finished 
+23618  finished 
+23619  finished 
+23620  finished 
+23621  finished 
+23622  finished 
+23623  finished 
+23624  finished 
+23625  finished 
+23626  finished 
+23627  finished 
+23628  finished 
+23629  finished 
+23630  finished 
+23631  finished 
+23632  finished 
+23633  finished 
+23634  finished 
+23635  finished 
+23636  finished 
+23637  finished 
+23638  finished 
+23639  finished 
+23640  finished 
+23641  finished 
+23642  finished 
+23643  finished 
+23644  finished 
+23645  finished 
+23646  finished 
+23647  finished 
+23648  finished 
+23649  finished 
+23650  finished 
+23651  finished 
+23652  finished 
+23653  finished 
+23654  finished 
+23655  finished 
+23656  finished 
+23657  finished 
+23658  finished 
+23659  finished 
+23660  finished 
+23661  finished 
+23662  finished 
+23663  finished 
+23664  finished 
+23665  finished 
+23666  finished 
+23667  finished 
+23668  finished 
+23669  finished 
+23670  finished 
+23671  finished 
+23672  finished 
+23673  finished 
+23674  finished 
+23675  finished 
+23676  finished 
+23677  finished 
+23678  finished 
+23679  finished 
+23680  finished 
+23681  finished 
+23682  finished 
+23683  finished 
+23684  finished 
+23685  finished 
+23686  finished 
+23687  finished 
+23688  finished 
+23689  finished 
+23690  finished 
+23691  finished 
+23692  finished 
+23693  finished 
+23694  finished 
+23695  finished 
+23696  finished 
+23697  finished 
+23698  finished 
+23699  finished 
+23700  finished 
+23701  finished 
+23702  finished 
+23703  finished 
+23704  finished 
+23705  finished 
+23706  finished 
+23707  finished 
+23708  finished 
+23709  finished 
+23710  finished 
+23711  finished 
+23712  finished 
+23713  finished 
+23714  finished 
+23715  finished 
+23716  finished 
+23717  finished 
+23718  finished 
+23719  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+23720  finished 
+23721  finished 
+23722  finished 
+23723  finished 
+23724  finished 
+23725  finished 
+23726  finished 
+23727  finished 
+23728  finished 
+23729  finished 
+23730  finished 
+23731  finished 
+23732  finished 
+23733  finished 
+23734  finished 
+23735  finished 
+23736  finished 
+23737  finished 
+23738  finished 
+23739  finished 
+23740  finished 
+23741  finished 
+23742  finished 
+23743  finished 
+23744  finished 
+23745  finished 
+23746  finished 
+23747  finished 
+23748  finished 
+23749  finished 
+23750  finished 
+23751  finished 
+23752  finished 
+23753  finished 
+23754  finished 
+23755  finished 
+23756  finished 
+23757  finished 
+23758  finished 
+23759  finished 
+23760  finished 
+23761  finished 
+23762  finished 
+23763  finished 
+23764  finished 
+23765  finished 
+23766  finished 
+23767  finished 
+23768  finished 
+23769  finished 
+23770  finished 
+23771  finished 
+23772  finished 
+23773  finished 
+23774  finished 
+23775  finished 
+23776  finished 
+23777  finished 
+23778  finished 
+23779  finished 
+23780  finished 
+23781  finished 
+23782  finished 
+23783  finished 
+23784  finished 
+23785  finished 
+23786  finished 
+23787  finished 
+23788  finished 
+23789  finished 
+23790  finished 
+23791  finished 
+23792  finished 
+23793  finished 
+23794  finished 
+23795  finished 
+23796  finished 
+23797  finished 
+23798  finished 
+23799  finished 
+23800  finished 
+23801  finished 
+23802  finished 
+23803  finished 
+23804  finished 
+23805  finished 
+23806  finished 
+23807  finished 
+23808  finished 
+23809  finished 
+23810  finished 
+23811  finished 
+23812  finished 
+23813  finished 
+23814  finished 
+23815  finished 
+23816  finished 
+23817  finished 
+23818  finished 
+23819  finished 
+23820  finished 
+23821  finished 
+23822  finished 
+23823  finished 
+23824  finished 
+23825  finished 
+23826  finished 
+23827  finished 
+23828  finished 
+23829  finished 
+23830  finished 
+23831  finished 
+23832  finished 
+23833  finished 
+23834  finished 
+23835  finished 
+23836  finished 
+23837  finished 
+23838  finished 
+23839  finished 
+23840  finished 
+23841  finished 
+23842  finished 
+23843  finished 
+23844  finished 
+23845  finished 
+23846  finished 
+23847  finished 
+23848  finished 
+23849  finished 
+23850  finished 
+23851  finished 
+23852  finished 
+23853  finished 
+23854  finished 
+23855  finished 
+23856  finished 
+23857  finished 
+23858  finished 
+23859  finished 
+23860  finished 
+23861  finished 
+23862  finished 
+23863  finished 
+23864  finished 
+23865  finished 
+23866  finished 
+23867  finished 
+23868  finished 
+23869  finished 
+23870  finished 
+23871  finished 
+23872  finished 
+23873  finished 
+23874  finished 
+23875  finished 
+23876  finished 
+23877  finished 
+23878  finished 
+23879  finished 
+23880  finished 
+23881  finished 
+23882  finished 
+23883  finished 
+23884  finished 
+23885  finished 
+23886  finished 
+23887  finished 
+23888  finished 
+23889  finished 
+23890  finished 
+23891  finished 
+23892  finished 
+23893  finished 
+23894  finished 
+23895  finished 
+23896  finished 
+23897  finished 
+23898  finished 
+23899  finished 
+23900  finished 
+23901  finished 
+23902  finished 
+23903  finished 
+23904  finished 
+23905  finished 
+23906  finished 
+23907  finished 
+23908  finished 
+23909  finished 
+23910  finished 
+23911  finished 
+23912  finished 
+23913  finished 
+23914  finished 
+23915  finished 
+23916  finished 
+23917  finished 
+23918  finished 
+23919  finished 
+23920  finished 
+23921  finished 
+23922  finished 
+23923  finished 
+23924  finished 
+23925  finished 
+23926  finished 
+23927  finished 
+23928  finished 
+23929  finished 
+23930  finished 
+23931  finished 
+23932  finished 
+23933  finished 
+23934  finished 
+23935  finished 
+23936  finished 
+23937  finished 
+23938  finished 
+23939  finished 
+23940  finished 
+23941  finished 
+23942  finished 
+23943  finished 
+23944  finished 
+23945  finished 
+23946  finished 
+23947  finished 
+23948  finished 
+23949  finished 
+23950  finished 
+23951  finished 
+23952  finished 
+23953  finished 
+23954  finished 
+23955  finished 
+23956  finished 
+23957  finished 
+23958  finished 
+23959  finished 
+23960  finished 
+23961  finished 
+23962  finished 
+23963  finished 
+23964  finished 
+23965  finished 
+23966  finished 
+23967  finished 
+23968  finished 
+23969  finished 
+23970  finished 
+23971  finished 
+23972  finished 
+23973  finished 
+23974  finished 
+23975  finished 
+23976  finished 
+23977  finished 
+23978  finished 
+23979  finished 
+23980  finished 
+23981  finished 
+23982  finished 
+23983  finished 
+23984  finished 
+23985  finished 
+23986  finished 
+23987  finished 
+23988  finished 
+23989  finished 
+23990  finished 
+23991  finished 
+23992  finished 
+23993  finished 
+23994  finished 
+23995  finished 
+23996  finished 
+23997  finished 
+23998  finished 
+23999  finished 
+24000  finished 
+24001  finished 
+24002  finished 
+24003  finished 
+24004  finished 
+24005  finished 
+24006  finished 
+24007  finished 
+24008  finished 
+24009  finished 
+24010  finished 
+24011  finished 
+24012  finished 
+24013  finished 
+24014  finished 
+24015  finished 
+24016  finished 
+24017  finished 
+24018  finished 
+24019  finished 
+24020  finished 
+24021  finished 
+24022  finished 
+24023  finished 
+24024  finished 
+24025  finished 
+24026  finished 
+24027  finished 
+24028  finished 
+24029  finished 
+24030  finished 
+24031  finished 
+24032  finished 
+24033  finished 
+24034  finished 
+24035  finished 
+24036  finished 
+24037  finished 
+24038  finished 
+24039  finished 
+24040  finished 
+24041  finished 
+24042  finished 
+24043  finished 
+24044  finished 
+24045  finished 
+24046  finished 
+24047  finished 
+24048  finished 
+24049  finished 
+24050  finished 
+24051  finished 
+24052  finished 
+24053  finished 
+24054  finished 
+24055  finished 
+24056  finished 
+24057  finished 
+24058  finished 
+24059  finished 
+24060  finished 
+24061  finished 
+24062  finished 
+24063  finished 
+24064  finished 
+24065  finished 
+24066  finished 
+24067  finished 
+24068  finished 
+24069  finished 
+24070  finished 
+24071  finished 
+24072  finished 
+24073  finished 
+24074  finished 
+24075  finished 
+24076  finished 
+24077  finished 
+24078  finished 
+24079  finished 
+24080  finished 
+24081  finished 
+24082  finished 
+24083  finished 
+24084  finished 
+24085  finished 
+24086  finished 
+24087  finished 
+24088  finished 
+24089  finished 
+24090  finished 
+24091  finished 
+24092  finished 
+24093  finished 
+24094  finished 
+24095  finished 
+24096  finished 
+24097  finished 
+24098  finished 
+24099  finished 
+24100  finished 
+24101  finished 
+24102  finished 
+24103  finished 
+24104  finished 
+24105  finished 
+24106  finished 
+24107  finished 
+24108  finished 
+24109  finished 
+24110  finished 
+24111  finished 
+24112  finished 
+24113  finished 
+24114  finished 
+24115  finished 
+24116  finished 
+24117  finished 
+24118  finished 
+24119  finished 
+24120  finished 
+24121  finished 
+24122  finished 
+24123  finished 
+24124  finished 
+24125  finished 
+24126  finished 
+24127  finished 
+24128  finished 
+24129  finished 
+24130  finished 
+24131  finished 
+24132  finished 
+24133  finished 
+24134  finished 
+24135  finished 
+24136  finished 
+24137  finished 
+24138  finished 
+24139  finished 
+24140  finished 
+24141  finished 
+24142  finished 
+24143  finished 
+24144  finished 
+24145  finished 
+24146  finished 
+24147  finished 
+24148  finished 
+24149  finished 
+24150  finished 
+24151  finished 
+24152  finished 
+24153  finished 
+24154  finished 
+24155  finished 
+24156  finished 
+24157  finished 
+24158  finished 
+24159  finished 
+24160  finished 
+24161  finished 
+24162  finished 
+24163  finished 
+24164  finished 
+24165  finished 
+24166  finished 
+24167  finished 
+24168  finished 
+24169  finished 
+24170  finished 
+24171  finished 
+24172  finished 
+24173  finished 
+24174  finished 
+24175  finished 
+24176  finished 
+24177  finished 
+24178  finished 
+24179  finished 
+24180  finished 
+24181  finished 
+24182  finished 
+24183  finished 
+24184  finished 
+24185  finished 
+24186  finished 
+24187  finished 
+24188  finished 
+24189  finished 
+24190  finished 
+24191  finished 
+24192  finished 
+24193  finished 
+24194  finished 
+24195  finished 
+24196  finished 
+24197  finished 
+24198  finished 
+24199  finished 
+24200  finished 
+24201  finished 
+24202  finished 
+24203  finished 
+24204  finished 
+24205  finished 
+24206  finished 
+24207  finished 
+24208  finished 
+24209  finished 
+24210  finished 
+24211  finished 
+24212  finished 
+24213  finished 
+24214  finished 
+24215  finished 
+24216  finished 
+24217  finished 
+24218  finished 
+24219  finished 
+24220  finished 
+24221  finished 
+24222  finished 
+24223  finished 
+24224  finished 
+24225  finished 
+24226  finished 
+24227  finished 
+24228  finished 
+24229  finished 
+24230  finished 
+24231  finished 
+24232  finished 
+24233  finished 
+24234  finished 
+24235  finished 
+24236  finished 
+24237  finished 
+24238  finished 
+24239  finished 
+24240  finished 
+24241  finished 
+24242  finished 
+24243  finished 
+24244  finished 
+24245  finished 
+24246  finished 
+24247  finished 
+24248  finished 
+24249  finished 
+24250  finished 
+24251  finished 
+24252  finished 
+24253  finished 
+24254  finished 
+24255  finished 
+24256  finished 
+24257  finished 
+24258  finished 
+24259  finished 
+24260  finished 
+24261  finished 
+24262  finished 
+24263  finished 
+24264  finished 
+24265  finished 
+24266  finished 
+24267  finished 
+24268  finished 
+24269  finished 
+24270  finished 
+24271  finished 
+24272  finished 
+24273  finished 
+24274  finished 
+24275  finished 
+24276  finished 
+24277  finished 
+24278  finished 
+24279  finished 
+24280  finished 
+24281  finished 
+24282  finished 
+24283  finished 
+24284  finished 
+24285  finished 
+24286  finished 
+24287  finished 
+24288  finished 
+24289  finished 
+24290  finished 
+24291  finished 
+24292  finished 
+24293  finished 
+24294  finished 
+24295  finished 
+24296  finished 
+24297  finished 
+24298  finished 
+24299  finished 
+24300  finished 
+24301  finished 
+24302  finished 
+24303  finished 
+24304  finished 
+24305  finished 
+24306  finished 
+24307  finished 
+24308  finished 
+24309  finished 
+24310  finished 
+24311  finished 
+24312  finished 
+24313  finished 
+24314  finished 
+24315  finished 
+24316  finished 
+24317  finished 
+24318  finished 
+24319  finished 
+24320  finished 
+24321  finished 
+24322  finished 
+24323  finished 
+24324  finished 
+24325  finished 
+24326  finished 
+24327  finished 
+24328  finished 
+24329  finished 
+24330  finished 
+24331  finished 
+24332  finished 
+24333  finished 
+24334  finished 
+24335  finished 
+24336  finished 
+24337  finished 
+24338  finished 
+24339  finished 
+24340  finished 
+24341  finished 
+24342  finished 
+24343  finished 
+24344  finished 
+24345  finished 
+24346  finished 
+24347  finished 
+24348  finished 
+24349  finished 
+24350  finished 
+24351  finished 
+24352  finished 
+24353  finished 
+24354  finished 
+24355  finished 
+24356  finished 
+24357  finished 
+24358  finished 
+24359  finished 
+24360  finished 
+24361  finished 
+24362  finished 
+24363  finished 
+24364  finished 
+24365  finished 
+24366  finished 
+24367  finished 
+24368  finished 
+24369  finished 
+24370  finished 
+24371  finished 
+24372  finished 
+24373  finished 
+24374  finished 
+24375  finished 
+24376  finished 
+24377  finished 
+24378  finished 
+24379  finished 
+24380  finished 
+24381  finished 
+24382  finished 
+24383  finished 
+24384  finished 
+24385  finished 
+24386  finished 
+24387  finished 
+24388  finished 
+24389  finished 
+24390  finished 
+24391  finished 
+24392  finished 
+24393  finished 
+24394  finished 
+24395  finished 
+24396  finished 
+24397  finished 
+24398  finished 
+24399  finished 
+24400  finished 
+24401  finished 
+24402  finished 
+24403  finished 
+24404  finished 
+24405  finished 
+24406  finished 
+24407  finished 
+24408  finished 
+24409  finished 
+24410  finished 
+24411  finished 
+24412  finished 
+24413  finished 
+24414  finished 
+24415  finished 
+24416  finished 
+24417  finished 
+24418  finished 
+24419  finished 
+24420  finished 
+24421  finished 
+24422  finished 
+24423  finished 
+24424  finished 
+24425  finished 
+24426  finished 
+24427  finished 
+24428  finished 
+24429  finished 
+24430  finished 
+24431  finished 
+24432  finished 
+24433  finished 
+24434  finished 
+24435  finished 
+24436  finished 
+24437  finished 
+24438  finished 
+24439  finished 
+24440  finished 
+24441  finished 
+24442  finished 
+24443  finished 
+24444  finished 
+24445  finished 
+24446  finished 
+24447  finished 
+24448  finished 
+24449  finished 
+24450  finished 
+24451  finished 
+24452  finished 
+24453  finished 
+24454  finished 
+24455  finished 
+24456  finished 
+24457  finished 
+24458  finished 
+24459  finished 
+24460  finished 
+24461  finished 
+24462  finished 
+24463  finished 
+24464  finished 
+24465  finished 
+24466  finished 
+24467  finished 
+24468  finished 
+24469  finished 
+24470  finished 
+24471  finished 
+24472  finished 
+24473  finished 
+24474  finished 
+24475  finished 
+24476  finished 
+24477  finished 
+24478  finished 
+24479  finished 
+24480  finished 
+24481  finished 
+24482  finished 
+24483  finished 
+24484  finished 
+24485  finished 
+24486  finished 
+24487  finished 
+24488  finished 
+24489  finished 
+24490  finished 
+24491  finished 
+24492  finished 
+24493  finished 
+24494  finished 
+24495  finished 
+24496  finished 
+24497  finished 
+24498  finished 
+24499  finished 
+24500  finished 
+24501  finished 
+24502  finished 
+24503  finished 
+24504  finished 
+24505  finished 
+24506  finished 
+24507  finished 
+24508  finished 
+24509  finished 
+24510  finished 
+24511  finished 
+24512  finished 
+24513  finished 
+24514  finished 
+24515  finished 
+24516  finished 
+24517  finished 
+24518  finished 
+24519  finished 
+24520  finished 
+24521  finished 
+24522  finished 
+24523  finished 
+24524  finished 
+24525  finished 
+24526  finished 
+24527  finished 
+24528  finished 
+24529  finished 
+24530  finished 
+24531  finished 
+24532  finished 
+24533  finished 
+24534  finished 
+24535  finished 
+24536  finished 
+24537  finished 
+24538  finished 
+24539  finished 
+24540  finished 
+24541  finished 
+24542  finished 
+24543  finished 
+24544  finished 
+24545  finished 
+24546  finished 
+24547  finished 
+24548  finished 
+24549  finished 
+24550  finished 
+24551  finished 
+24552  finished 
+24553  finished 
+24554  finished 
+24555  finished 
+24556  finished 
+24557  finished 
+24558  finished 
+24559  finished 
+24560  finished 
+24561  finished 
+24562  finished 
+24563  finished 
+24564  finished 
+24565  finished 
+24566  finished 
+24567  finished 
+24568  finished 
+24569  finished 
+24570  finished 
+    user   system  elapsed 
+ 1236.85    12.25 33778.34 
+9.382943

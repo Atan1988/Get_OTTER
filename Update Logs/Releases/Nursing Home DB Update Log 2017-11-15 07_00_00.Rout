@@ -1,0 +1,26 @@
+Error: object 'rel_dfs1' not found
+1  finished 
+2  finished 
+3  finished 
+4  finished 
+5  finished 
+6  finished 
+7  finished 
+8  finished 
+9  finished 
+10  finished 
+11  finished 
+12  finished 
+13  finished 
+14  finished 
+15  finished 
+16  finished 
+17  finished 
+18  finished 
+19  finished 
+20  finished 
+21  finished 
+
+Called from: Sys.sleep(2)
+Timing stopped at: 13.26 0.13 253.9
+4.311064

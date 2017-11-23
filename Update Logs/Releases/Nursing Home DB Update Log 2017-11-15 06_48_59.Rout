@@ -1,0 +1,6 @@
+Error: object 'rel_dfs1' not found
+Error in checkError(res) : 
+  Undefined error in httr call. httr output: Failed to connect to 192.168.99.100 port 4445: Connection refused
+Called from: checkError(res)
+Timing stopped at: 0.02 0 1.22
+1.305666

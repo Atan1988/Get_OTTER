@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510669056424.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "26614108",
+    "lastKnownWriteTime" : 1511306973,
+    "last_content_update" : 1511306973131,
+    "path" : "~/GitHub/Get_OTTER/Release Data Aggregate.R",
+    "project_path" : "Release Data Aggregate.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

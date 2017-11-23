@@ -1,0 +1,123 @@
+25349  finished 
+25350  finished 
+25351  finished 
+25352  finished 
+25353  finished 
+25354  finished 
+25355  finished 
+25356  finished 
+25357  finished 
+25358  finished 
+25359  finished 
+25360  finished 
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+25361  finished 
+Error : Columns `Releasestatus`, `LTFstatuss` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+25362  finished 
+25363  finished 
+25364  finished 
+25365  finished 
+25366  finished 
+25367  finished 
+25368  finished 
+25369  finished 
+25370  finished 
+25371  finished 
+25372  finished 
+25373  finished 
+25374  finished 
+25375  finished 
+25376  finished 
+25377  finished 
+25378  finished 
+25379  finished 
+25380  finished 
+25381  finished 
+25382  finished 
+25383  finished 
+25384  finished 
+25385  finished 
+25386  finished 
+25387  finished 
+25388  finished 
+25389  finished 
+25390  finished 
+25391  finished 
+25392  finished 
+25393  finished 
+25394  finished 
+25395  finished 
+25396  finished 
+25397  finished 
+25398  finished 
+25399  finished 
+25400  finished 
+25401  finished 
+25402  finished 
+25403  finished 
+25404  finished 
+25405  finished 
+25406  finished 
+25407  finished 
+25408  finished 
+25409  finished 
+25410  finished 
+25411  finished 
+25412  finished 
+25413  finished 
+25414  finished 
+25415  finished 
+25416  finished 
+25417  finished 
+25418  finished 
+   user  system elapsed 
+  31.80    0.18  941.45 
+15.69549

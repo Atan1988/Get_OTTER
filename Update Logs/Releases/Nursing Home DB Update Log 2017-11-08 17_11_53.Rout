@@ -1,0 +1,21 @@
+1  finished 
+2  finished 
+3  finished 
+4  finished 
+5  finished 
+6  finished 
+7  finished 
+8  finished 
+9  finished 
+10  finished 
+11  finished 
+12  finished 
+13  finished 
+14  finished 
+15  finished 
+   user  system elapsed 
+   5.66    0.06  149.73 
+Warning message:
+In .Internal(gc(verbose, reset)) :
+  closing unused connection 3 (Update Logs/Releases/Nursing Home DB Update Log 2017-11-08 17_11_41.Rout)
+2.499626

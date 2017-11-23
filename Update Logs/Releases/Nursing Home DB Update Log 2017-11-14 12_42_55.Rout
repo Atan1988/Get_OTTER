@@ -1,0 +1,5747 @@
+Error: object 'rel_dfs1' not found
+89  finished 
+90  finished 
+91  finished 
+92  finished 
+93  finished 
+94  finished 
+95  finished 
+96  finished 
+97  finished 
+98  finished 
+99  finished 
+100  finished 
+101  finished 
+102  finished 
+103  finished 
+104  finished 
+105  finished 
+106  finished 
+107  finished 
+108  finished 
+109  finished 
+110  finished 
+111  finished 
+112  finished 
+113  finished 
+114  finished 
+115  finished 
+116  finished 
+117  finished 
+118  finished 
+119  finished 
+120  finished 
+121  finished 
+122  finished 
+123  finished 
+124  finished 
+125  finished 
+126  finished 
+127  finished 
+128  finished 
+129  finished 
+130  finished 
+131  finished 
+132  finished 
+133  finished 
+134  finished 
+135  finished 
+136  finished 
+137  finished 
+138  finished 
+139  finished 
+140  finished 
+141  finished 
+142  finished 
+143  finished 
+144  finished 
+145  finished 
+146  finished 
+147  finished 
+148  finished 
+149  finished 
+150  finished 
+151  finished 
+152  finished 
+153  finished 
+154  finished 
+155  finished 
+156  finished 
+157  finished 
+158  finished 
+159  finished 
+160  finished 
+161  finished 
+162  finished 
+163  finished 
+164  finished 
+165  finished 
+166  finished 
+167  finished 
+168  finished 
+169  finished 
+170  finished 
+171  finished 
+172  finished 
+173  finished 
+174  finished 
+175  finished 
+176  finished 
+177  finished 
+178  finished 
+179  finished 
+180  finished 
+181  finished 
+182  finished 
+183  finished 
+184  finished 
+185  finished 
+186  finished 
+187  finished 
+188  finished 
+189  finished 
+190  finished 
+191  finished 
+192  finished 
+193  finished 
+194  finished 
+195  finished 
+196  finished 
+197  finished 
+198  finished 
+199  finished 
+200  finished 
+201  finished 
+202  finished 
+203  finished 
+204  finished 
+205  finished 
+206  finished 
+207  finished 
+208  finished 
+209  finished 
+210  finished 
+211  finished 
+212  finished 
+213  finished 
+214  finished 
+215  finished 
+216  finished 
+217  finished 
+218  finished 
+219  finished 
+220  finished 
+221  finished 
+222  finished 
+223  finished 
+224  finished 
+225  finished 
+226  finished 
+227  finished 
+228  finished 
+229  finished 
+230  finished 
+231  finished 
+232  finished 
+233  finished 
+234  finished 
+235  finished 
+236  finished 
+237  finished 
+238  finished 
+239  finished 
+240  finished 
+241  finished 
+242  finished 
+243  finished 
+244  finished 
+245  finished 
+246  finished 
+247  finished 
+248  finished 
+249  finished 
+250  finished 
+251  finished 
+252  finished 
+253  finished 
+254  finished 
+255  finished 
+256  finished 
+257  finished 
+258  finished 
+259  finished 
+260  finished 
+261  finished 
+262  finished 
+263  finished 
+264  finished 
+265  finished 
+266  finished 
+267  finished 
+268  finished 
+269  finished 
+270  finished 
+271  finished 
+272  finished 
+273  finished 
+274  finished 
+275  finished 
+276  finished 
+277  finished 
+278  finished 
+279  finished 
+280  finished 
+281  finished 
+282  finished 
+283  finished 
+284  finished 
+285  finished 
+286  finished 
+287  finished 
+288  finished 
+289  finished 
+290  finished 
+291  finished 
+292  finished 
+293  finished 
+294  finished 
+295  finished 
+296  finished 
+297  finished 
+298  finished 
+299  finished 
+300  finished 
+301  finished 
+302  finished 
+303  finished 
+304  finished 
+305  finished 
+306  finished 
+307  finished 
+308  finished 
+309  finished 
+310  finished 
+311  finished 
+312  finished 
+313  finished 
+314  finished 
+315  finished 
+316  finished 
+317  finished 
+318  finished 
+319  finished 
+320  finished 
+321  finished 
+322  finished 
+323  finished 
+324  finished 
+325  finished 
+326  finished 
+327  finished 
+328  finished 
+329  finished 
+330  finished 
+331  finished 
+332  finished 
+333  finished 
+334  finished 
+335  finished 
+336  finished 
+337  finished 
+338  finished 
+339  finished 
+340  finished 
+341  finished 
+342  finished 
+343  finished 
+344  finished 
+345  finished 
+346  finished 
+347  finished 
+348  finished 
+349  finished 
+350  finished 
+351  finished 
+352  finished 
+353  finished 
+354  finished 
+355  finished 
+356  finished 
+357  finished 
+358  finished 
+359  finished 
+360  finished 
+361  finished 
+362  finished 
+363  finished 
+364  finished 
+365  finished 
+366  finished 
+367  finished 
+368  finished 
+369  finished 
+370  finished 
+371  finished 
+372  finished 
+373  finished 
+374  finished 
+375  finished 
+376  finished 
+377  finished 
+378  finished 
+379  finished 
+380  finished 
+381  finished 
+382  finished 
+383  finished 
+384  finished 
+385  finished 
+386  finished 
+387  finished 
+388  finished 
+389  finished 
+390  finished 
+391  finished 
+392  finished 
+393  finished 
+394  finished 
+395  finished 
+396  finished 
+397  finished 
+398  finished 
+399  finished 
+400  finished 
+401  finished 
+402  finished 
+403  finished 
+404  finished 
+405  finished 
+406  finished 
+407  finished 
+408  finished 
+409  finished 
+410  finished 
+411  finished 
+412  finished 
+413  finished 
+414  finished 
+415  finished 
+416  finished 
+417  finished 
+418  finished 
+419  finished 
+420  finished 
+421  finished 
+422  finished 
+423  finished 
+424  finished 
+425  finished 
+426  finished 
+427  finished 
+428  finished 
+429  finished 
+430  finished 
+431  finished 
+432  finished 
+433  finished 
+434  finished 
+435  finished 
+436  finished 
+437  finished 
+438  finished 
+439  finished 
+440  finished 
+441  finished 
+442  finished 
+443  finished 
+444  finished 
+445  finished 
+446  finished 
+447  finished 
+448  finished 
+449  finished 
+450  finished 
+451  finished 
+452  finished 
+453  finished 
+454  finished 
+455  finished 
+456  finished 
+457  finished 
+458  finished 
+459  finished 
+460  finished 
+461  finished 
+462  finished 
+463  finished 
+464  finished 
+465  finished 
+466  finished 
+467  finished 
+468  finished 
+469  finished 
+470  finished 
+471  finished 
+472  finished 
+473  finished 
+474  finished 
+475  finished 
+476  finished 
+477  finished 
+478  finished 
+479  finished 
+480  finished 
+481  finished 
+482  finished 
+483  finished 
+484  finished 
+485  finished 
+486  finished 
+487  finished 
+488  finished 
+489  finished 
+490  finished 
+491  finished 
+492  finished 
+493  finished 
+494  finished 
+495  finished 
+496  finished 
+497  finished 
+498  finished 
+499  finished 
+500  finished 
+501  finished 
+502  finished 
+503  finished 
+504  finished 
+505  finished 
+506  finished 
+507  finished 
+508  finished 
+509  finished 
+510  finished 
+511  finished 
+512  finished 
+513  finished 
+514  finished 
+515  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+516  finished 
+517  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+518  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+Error : Columns `Releasestatus`, `CaClasses`, `Substatus` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+519  finished 
+520  finished 
+521  finished 
+522  finished 
+523  finished 
+524  finished 
+525  finished 
+526  finished 
+527  finished 
+528  finished 
+529  finished 
+530  finished 
+531  finished 
+532  finished 
+533  finished 
+534  finished 
+535  finished 
+536  finished 
+537  finished 
+538  finished 
+539  finished 
+540  finished 
+541  finished 
+542  finished 
+543  finished 
+544  finished 
+545  finished 
+546  finished 
+547  finished 
+548  finished 
+549  finished 
+550  finished 
+551  finished 
+552  finished 
+553  finished 
+554  finished 
+555  finished 
+556  finished 
+557  finished 
+558  finished 
+559  finished 
+560  finished 
+561  finished 
+562  finished 
+563  finished 
+564  finished 
+565  finished 
+566  finished 
+567  finished 
+568  finished 
+569  finished 
+570  finished 
+571  finished 
+572  finished 
+573  finished 
+574  finished 
+575  finished 
+576  finished 
+577  finished 
+578  finished 
+579  finished 
+580  finished 
+581  finished 
+582  finished 
+583  finished 
+584  finished 
+585  finished 
+586  finished 
+587  finished 
+588  finished 
+589  finished 
+590  finished 
+591  finished 
+592  finished 
+593  finished 
+594  finished 
+595  finished 
+596  finished 
+597  finished 
+598  finished 
+599  finished 
+600  finished 
+601  finished 
+602  finished 
+603  finished 
+604  finished 
+605  finished 
+606  finished 
+607  finished 
+608  finished 
+609  finished 
+610  finished 
+611  finished 
+612  finished 
+613  finished 
+614  finished 
+615  finished 
+616  finished 
+617  finished 
+618  finished 
+619  finished 
+620  finished 
+621  finished 
+622  finished 
+623  finished 
+624  finished 
+625  finished 
+626  finished 
+627  finished 
+628  finished 
+629  finished 
+630  finished 
+631  finished 
+632  finished 
+633  finished 
+634  finished 
+635  finished 
+636  finished 
+637  finished 
+638  finished 
+639  finished 
+640  finished 
+641  finished 
+642  finished 
+643  finished 
+644  finished 
+645  finished 
+646  finished 
+647  finished 
+648  finished 
+649  finished 
+650  finished 
+651  finished 
+652  finished 
+653  finished 
+654  finished 
+655  finished 
+656  finished 
+657  finished 
+658  finished 
+659  finished 
+660  finished 
+661  finished 
+662  finished 
+663  finished 
+664  finished 
+665  finished 
+666  finished 
+667  finished 
+668  finished 
+669  finished 
+670  finished 
+671  finished 
+672  finished 
+673  finished 
+674  finished 
+675  finished 
+676  finished 
+677  finished 
+678  finished 
+679  finished 
+680  finished 
+681  finished 
+682  finished 
+683  finished 
+684  finished 
+685  finished 
+686  finished 
+687  finished 
+688  finished 
+689  finished 
+690  finished 
+691  finished 
+692  finished 
+693  finished 
+694  finished 
+695  finished 
+696  finished 
+697  finished 
+698  finished 
+699  finished 
+700  finished 
+701  finished 
+702  finished 
+703  finished 
+704  finished 
+705  finished 
+706  finished 
+707  finished 
+708  finished 
+709  finished 
+710  finished 
+711  finished 
+712  finished 
+713  finished 
+714  finished 
+715  finished 
+716  finished 
+717  finished 
+718  finished 
+719  finished 
+720  finished 
+721  finished 
+722  finished 
+723  finished 
+724  finished 
+725  finished 
+726  finished 
+727  finished 
+728  finished 
+729  finished 
+730  finished 
+731  finished 
+732  finished 
+733  finished 
+734  finished 
+735  finished 
+736  finished 
+737  finished 
+738  finished 
+739  finished 
+740  finished 
+741  finished 
+742  finished 
+743  finished 
+744  finished 
+745  finished 
+746  finished 
+747  finished 
+748  finished 
+749  finished 
+750  finished 
+751  finished 
+752  finished 
+753  finished 
+754  finished 
+755  finished 
+756  finished 
+757  finished 
+758  finished 
+759  finished 
+760  finished 
+761  finished 
+762  finished 
+763  finished 
+764  finished 
+765  finished 
+766  finished 
+767  finished 
+768  finished 
+769  finished 
+770  finished 
+771  finished 
+772  finished 
+773  finished 
+774  finished 
+775  finished 
+776  finished 
+777  finished 
+778  finished 
+779  finished 
+780  finished 
+781  finished 
+782  finished 
+783  finished 
+784  finished 
+785  finished 
+786  finished 
+787  finished 
+788  finished 
+789  finished 
+790  finished 
+791  finished 
+792  finished 
+793  finished 
+794  finished 
+795  finished 
+796  finished 
+797  finished 
+798  finished 
+799  finished 
+800  finished 
+801  finished 
+802  finished 
+803  finished 
+804  finished 
+805  finished 
+806  finished 
+807  finished 
+808  finished 
+809  finished 
+810  finished 
+811  finished 
+812  finished 
+813  finished 
+814  finished 
+815  finished 
+816  finished 
+817  finished 
+818  finished 
+819  finished 
+820  finished 
+821  finished 
+822  finished 
+823  finished 
+824  finished 
+825  finished 
+826  finished 
+827  finished 
+828  finished 
+829  finished 
+830  finished 
+831  finished 
+832  finished 
+833  finished 
+834  finished 
+835  finished 
+836  finished 
+837  finished 
+838  finished 
+839  finished 
+840  finished 
+841  finished 
+842  finished 
+843  finished 
+844  finished 
+845  finished 
+846  finished 
+847  finished 
+848  finished 
+849  finished 
+850  finished 
+851  finished 
+852  finished 
+853  finished 
+854  finished 
+855  finished 
+856  finished 
+857  finished 
+858  finished 
+859  finished 
+860  finished 
+861  finished 
+862  finished 
+863  finished 
+864  finished 
+865  finished 
+866  finished 
+867  finished 
+868  finished 
+869  finished 
+870  finished 
+871  finished 
+872  finished 
+873  finished 
+874  finished 
+875  finished 
+876  finished 
+877  finished 
+878  finished 
+879  finished 
+880  finished 
+881  finished 
+882  finished 
+883  finished 
+884  finished 
+885  finished 
+886  finished 
+887  finished 
+888  finished 
+889  finished 
+890  finished 
+891  finished 
+892  finished 
+893  finished 
+894  finished 
+895  finished 
+896  finished 
+897  finished 
+898  finished 
+899  finished 
+900  finished 
+901  finished 
+902  finished 
+903  finished 
+904  finished 
+905  finished 
+906  finished 
+907  finished 
+908  finished 
+909  finished 
+910  finished 
+911  finished 
+912  finished 
+913  finished 
+914  finished 
+915  finished 
+916  finished 
+917  finished 
+918  finished 
+919  finished 
+920  finished 
+921  finished 
+922  finished 
+923  finished 
+924  finished 
+925  finished 
+926  finished 
+927  finished 
+928  finished 
+929  finished 
+930  finished 
+931  finished 
+932  finished 
+933  finished 
+934  finished 
+935  finished 
+936  finished 
+937  finished 
+938  finished 
+939  finished 
+940  finished 
+941  finished 
+942  finished 
+943  finished 
+944  finished 
+945  finished 
+946  finished 
+947  finished 
+948  finished 
+949  finished 
+950  finished 
+951  finished 
+952  finished 
+953  finished 
+954  finished 
+955  finished 
+956  finished 
+957  finished 
+958  finished 
+959  finished 
+960  finished 
+961  finished 
+962  finished 
+963  finished 
+964  finished 
+965  finished 
+966  finished 
+967  finished 
+968  finished 
+969  finished 
+970  finished 
+971  finished 
+972  finished 
+973  finished 
+974  finished 
+975  finished 
+976  finished 
+977  finished 
+978  finished 
+979  finished 
+980  finished 
+981  finished 
+982  finished 
+983  finished 
+984  finished 
+985  finished 
+986  finished 
+987  finished 
+988  finished 
+989  finished 
+990  finished 
+991  finished 
+992  finished 
+993  finished 
+994  finished 
+995  finished 
+996  finished 
+997  finished 
+998  finished 
+999  finished 
+1000  finished 
+1001  finished 
+1002  finished 
+1003  finished 
+1004  finished 
+1005  finished 
+1006  finished 
+1007  finished 
+1008  finished 
+1009  finished 
+1010  finished 
+1011  finished 
+1012  finished 
+1013  finished 
+1014  finished 
+1015  finished 
+1016  finished 
+1017  finished 
+1018  finished 
+1019  finished 
+1020  finished 
+1021  finished 
+1022  finished 
+1023  finished 
+1024  finished 
+1025  finished 
+1026  finished 
+1027  finished 
+1028  finished 
+1029  finished 
+1030  finished 
+1031  finished 
+1032  finished 
+1033  finished 
+1034  finished 
+1035  finished 
+1036  finished 
+1037  finished 
+1038  finished 
+1039  finished 
+1040  finished 
+1041  finished 
+1042  finished 
+1043  finished 
+Error : Columns `Releasestatus`, `CaClasses`, `Substatus` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+1044  finished 
+1045  finished 
+1046  finished 
+1047  finished 
+1048  finished 
+1049  finished 
+1050  finished 
+1051  finished 
+1052  finished 
+1053  finished 
+1054  finished 
+1055  finished 
+1056  finished 
+1057  finished 
+1058  finished 
+1059  finished 
+1060  finished 
+1061  finished 
+1062  finished 
+1063  finished 
+1064  finished 
+1065  finished 
+1066  finished 
+1067  finished 
+1068  finished 
+1069  finished 
+1070  finished 
+1071  finished 
+1072  finished 
+1073  finished 
+1074  finished 
+1075  finished 
+1076  finished 
+1077  finished 
+1078  finished 
+1079  finished 
+1080  finished 
+1081  finished 
+1082  finished 
+1083  finished 
+1084  finished 
+1085  finished 
+1086  finished 
+1087  finished 
+1088  finished 
+1089  finished 
+1090  finished 
+1091  finished 
+1092  finished 
+1093  finished 
+1094  finished 
+1095  finished 
+1096  finished 
+1097  finished 
+1098  finished 
+1099  finished 
+1100  finished 
+1101  finished 
+1102  finished 
+1103  finished 
+1104  finished 
+1105  finished 
+1106  finished 
+1107  finished 
+1108  finished 
+1109  finished 
+1110  finished 
+1111  finished 
+1112  finished 
+1113  finished 
+1114  finished 
+1115  finished 
+1116  finished 
+1117  finished 
+1118  finished 
+1119  finished 
+1120  finished 
+1121  finished 
+1122  finished 
+1123  finished 
+1124  finished 
+1125  finished 
+1126  finished 
+1127  finished 
+1128  finished 
+1129  finished 
+1130  finished 
+1131  finished 
+1132  finished 
+1133  finished 
+1134  finished 
+1135  finished 
+1136  finished 
+1137  finished 
+1138  finished 
+1139  finished 
+1140  finished 
+1141  finished 
+1142  finished 
+1143  finished 
+1144  finished 
+1145  finished 
+1146  finished 
+1147  finished 
+1148  finished 
+1149  finished 
+1150  finished 
+1151  finished 
+1152  finished 
+1153  finished 
+1154  finished 
+1155  finished 
+1156  finished 
+1157  finished 
+1158  finished 
+1159  finished 
+1160  finished 
+1161  finished 
+1162  finished 
+1163  finished 
+1164  finished 
+1165  finished 
+1166  finished 
+1167  finished 
+1168  finished 
+1169  finished 
+1170  finished 
+1171  finished 
+1172  finished 
+1173  finished 
+1174  finished 
+1175  finished 
+1176  finished 
+1177  finished 
+1178  finished 
+1179  finished 
+1180  finished 
+1181  finished 
+1182  finished 
+1183  finished 
+1184  finished 
+1185  finished 
+1186  finished 
+1187  finished 
+1188  finished 
+1189  finished 
+1190  finished 
+1191  finished 
+1192  finished 
+1193  finished 
+1194  finished 
+1195  finished 
+1196  finished 
+1197  finished 
+1198  finished 
+1199  finished 
+1200  finished 
+1201  finished 
+1202  finished 
+1203  finished 
+1204  finished 
+1205  finished 
+1206  finished 
+1207  finished 
+1208  finished 
+1209  finished 
+1210  finished 
+1211  finished 
+1212  finished 
+1213  finished 
+1214  finished 
+1215  finished 
+1216  finished 
+1217  finished 
+1218  finished 
+1219  finished 
+1220  finished 
+1221  finished 
+1222  finished 
+1223  finished 
+1224  finished 
+1225  finished 
+1226  finished 
+1227  finished 
+1228  finished 
+1229  finished 
+1230  finished 
+1231  finished 
+1232  finished 
+1233  finished 
+1234  finished 
+1235  finished 
+1236  finished 
+1237  finished 
+1238  finished 
+1239  finished 
+1240  finished 
+1241  finished 
+1242  finished 
+1243  finished 
+1244  finished 
+1245  finished 
+1246  finished 
+1247  finished 
+1248  finished 
+1249  finished 
+1250  finished 
+1251  finished 
+1252  finished 
+1253  finished 
+1254  finished 
+1255  finished 
+1256  finished 
+1257  finished 
+1258  finished 
+1259  finished 
+1260  finished 
+1261  finished 
+1262  finished 
+1263  finished 
+1264  finished 
+1265  finished 
+1266  finished 
+1267  finished 
+1268  finished 
+1269  finished 
+1270  finished 
+1271  finished 
+1272  finished 
+1273  finished 
+1274  finished 
+1275  finished 
+1276  finished 
+1277  finished 
+1278  finished 
+1279  finished 
+1280  finished 
+1281  finished 
+1282  finished 
+1283  finished 
+1284  finished 
+1285  finished 
+1286  finished 
+1287  finished 
+1288  finished 
+1289  finished 
+1290  finished 
+1291  finished 
+1292  finished 
+1293  finished 
+1294  finished 
+1295  finished 
+1296  finished 
+1297  finished 
+1298  finished 
+1299  finished 
+1300  finished 
+1301  finished 
+1302  finished 
+1303  finished 
+1304  finished 
+1305  finished 
+1306  finished 
+1307  finished 
+1308  finished 
+1309  finished 
+1310  finished 
+1311  finished 
+1312  finished 
+1313  finished 
+1314  finished 
+1315  finished 
+1316  finished 
+1317  finished 
+1318  finished 
+1319  finished 
+1320  finished 
+1321  finished 
+1322  finished 
+1323  finished 
+1324  finished 
+1325  finished 
+1326  finished 
+1327  finished 
+1328  finished 
+1329  finished 
+1330  finished 
+1331  finished 
+1332  finished 
+1333  finished 
+1334  finished 
+1335  finished 
+1336  finished 
+1337  finished 
+1338  finished 
+1339  finished 
+1340  finished 
+1341  finished 
+1342  finished 
+1343  finished 
+1344  finished 
+1345  finished 
+1346  finished 
+1347  finished 
+1348  finished 
+1349  finished 
+1350  finished 
+1351  finished 
+1352  finished 
+1353  finished 
+1354  finished 
+1355  finished 
+1356  finished 
+1357  finished 
+1358  finished 
+1359  finished 
+1360  finished 
+1361  finished 
+1362  finished 
+1363  finished 
+1364  finished 
+1365  finished 
+1366  finished 
+1367  finished 
+1368  finished 
+1369  finished 
+1370  finished 
+1371  finished 
+1372  finished 
+1373  finished 
+1374  finished 
+1375  finished 
+1376  finished 
+1377  finished 
+1378  finished 
+1379  finished 
+1380  finished 
+1381  finished 
+1382  finished 
+1383  finished 
+1384  finished 
+1385  finished 
+1386  finished 
+1387  finished 
+1388  finished 
+1389  finished 
+1390  finished 
+1391  finished 
+1392  finished 
+1393  finished 
+1394  finished 
+1395  finished 
+1396  finished 
+1397  finished 
+1398  finished 
+1399  finished 
+1400  finished 
+1401  finished 
+1402  finished 
+1403  finished 
+1404  finished 
+1405  finished 
+1406  finished 
+1407  finished 
+1408  finished 
+1409  finished 
+1410  finished 
+1411  finished 
+1412  finished 
+1413  finished 
+1414  finished 
+1415  finished 
+1416  finished 
+1417  finished 
+1418  finished 
+1419  finished 
+1420  finished 
+1421  finished 
+1422  finished 
+1423  finished 
+1424  finished 
+1425  finished 
+1426  finished 
+1427  finished 
+1428  finished 
+1429  finished 
+1430  finished 
+1431  finished 
+1432  finished 
+1433  finished 
+1434  finished 
+1435  finished 
+1436  finished 
+1437  finished 
+1438  finished 
+1439  finished 
+1440  finished 
+1441  finished 
+1442  finished 
+1443  finished 
+1444  finished 
+1445  finished 
+1446  finished 
+1447  finished 
+1448  finished 
+1449  finished 
+1450  finished 
+1451  finished 
+1452  finished 
+1453  finished 
+1454  finished 
+1455  finished 
+1456  finished 
+1457  finished 
+1458  finished 
+1459  finished 
+1460  finished 
+1461  finished 
+1462  finished 
+1463  finished 
+1464  finished 
+1465  finished 
+1466  finished 
+1467  finished 
+1468  finished 
+1469  finished 
+1470  finished 
+1471  finished 
+1472  finished 
+1473  finished 
+1474  finished 
+1475  finished 
+1476  finished 
+1477  finished 
+1478  finished 
+1479  finished 
+1480  finished 
+1481  finished 
+1482  finished 
+1483  finished 
+1484  finished 
+1485  finished 
+1486  finished 
+1487  finished 
+1488  finished 
+1489  finished 
+1490  finished 
+1491  finished 
+1492  finished 
+1493  finished 
+1494  finished 
+1495  finished 
+1496  finished 
+1497  finished 
+1498  finished 
+1499  finished 
+1500  finished 
+1501  finished 
+1502  finished 
+1503  finished 
+1504  finished 
+1505  finished 
+1506  finished 
+1507  finished 
+1508  finished 
+1509  finished 
+1510  finished 
+1511  finished 
+1512  finished 
+1513  finished 
+1514  finished 
+1515  finished 
+1516  finished 
+1517  finished 
+1518  finished 
+1519  finished 
+1520  finished 
+1521  finished 
+1522  finished 
+1523  finished 
+1524  finished 
+1525  finished 
+1526  finished 
+1527  finished 
+1528  finished 
+1529  finished 
+1530  finished 
+1531  finished 
+1532  finished 
+1533  finished 
+1534  finished 
+1535  finished 
+1536  finished 
+1537  finished 
+1538  finished 
+1539  finished 
+1540  finished 
+1541  finished 
+1542  finished 
+1543  finished 
+1544  finished 
+1545  finished 
+1546  finished 
+1547  finished 
+1548  finished 
+1549  finished 
+1550  finished 
+1551  finished 
+1552  finished 
+1553  finished 
+1554  finished 
+1555  finished 
+1556  finished 
+1557  finished 
+1558  finished 
+1559  finished 
+1560  finished 
+1561  finished 
+1562  finished 
+1563  finished 
+1564  finished 
+1565  finished 
+1566  finished 
+1567  finished 
+1568  finished 
+1569  finished 
+1570  finished 
+1571  finished 
+1572  finished 
+1573  finished 
+1574  finished 
+1575  finished 
+1576  finished 
+1577  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+1578  finished 
+1579  finished 
+1580  finished 
+1581  finished 
+1582  finished 
+1583  finished 
+1584  finished 
+1585  finished 
+1586  finished 
+1587  finished 
+1588  finished 
+1589  finished 
+1590  finished 
+1591  finished 
+1592  finished 
+1593  finished 
+1594  finished 
+1595  finished 
+1596  finished 
+1597  finished 
+1598  finished 
+1599  finished 
+1600  finished 
+1601  finished 
+1602  finished 
+1603  finished 
+1604  finished 
+1605  finished 
+1606  finished 
+1607  finished 
+1608  finished 
+1609  finished 
+1610  finished 
+1611  finished 
+1612  finished 
+1613  finished 
+1614  finished 
+1615  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+1616  finished 
+1617  finished 
+1618  finished 
+1619  finished 
+1620  finished 
+1621  finished 
+1622  finished 
+1623  finished 
+1624  finished 
+1625  finished 
+1626  finished 
+1627  finished 
+1628  finished 
+1629  finished 
+1630  finished 
+1631  finished 
+1632  finished 
+1633  finished 
+1634  finished 
+1635  finished 
+1636  finished 
+1637  finished 
+1638  finished 
+1639  finished 
+1640  finished 
+1641  finished 
+1642  finished 
+1643  finished 
+1644  finished 
+1645  finished 
+1646  finished 
+1647  finished 
+1648  finished 
+1649  finished 
+1650  finished 
+1651  finished 
+1652  finished 
+1653  finished 
+1654  finished 
+1655  finished 
+1656  finished 
+1657  finished 
+1658  finished 
+1659  finished 
+1660  finished 
+1661  finished 
+1662  finished 
+1663  finished 
+1664  finished 
+1665  finished 
+1666  finished 
+1667  finished 
+1668  finished 
+1669  finished 
+1670  finished 
+1671  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+1672  finished 
+1673  finished 
+1674  finished 
+1675  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+1676  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+1677  finished 
+1678  finished 
+1679  finished 
+1680  finished 
+1681  finished 
+1682  finished 
+1683  finished 
+1684  finished 
+Error : Columns `Releasestatus`, `Substatus` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+1685  finished 
+Error : Columns `Releasestatus`, `CaClasses`, `Substatus` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+1686  finished 
+1687  finished 
+1688  finished 
+1689  finished 
+1690  finished 
+1691  finished 
+1692  finished 
+1693  finished 
+1694  finished 
+1695  finished 
+1696  finished 
+1697  finished 
+1698  finished 
+1699  finished 
+1700  finished 
+1701  finished 
+1702  finished 
+1703  finished 
+1704  finished 
+1705  finished 
+1706  finished 
+1707  finished 
+1708  finished 
+1709  finished 
+1710  finished 
+1711  finished 
+1712  finished 
+1713  finished 
+1714  finished 
+1715  finished 
+1716  finished 
+1717  finished 
+1718  finished 
+1719  finished 
+1720  finished 
+1721  finished 
+1722  finished 
+1723  finished 
+1724  finished 
+1725  finished 
+1726  finished 
+1727  finished 
+1728  finished 
+1729  finished 
+1730  finished 
+1731  finished 
+1732  finished 
+1733  finished 
+1734  finished 
+1735  finished 
+1736  finished 
+1737  finished 
+1738  finished 
+1739  finished 
+1740  finished 
+1741  finished 
+1742  finished 
+1743  finished 
+1744  finished 
+1745  finished 
+1746  finished 
+1747  finished 
+1748  finished 
+1749  finished 
+1750  finished 
+1751  finished 
+1752  finished 
+1753  finished 
+1754  finished 
+1755  finished 
+1756  finished 
+1757  finished 
+1758  finished 
+1759  finished 
+1760  finished 
+1761  finished 
+1762  finished 
+1763  finished 
+1764  finished 
+1765  finished 
+1766  finished 
+1767  finished 
+1768  finished 
+1769  finished 
+1770  finished 
+1771  finished 
+1772  finished 
+1773  finished 
+1774  finished 
+1775  finished 
+1776  finished 
+1777  finished 
+1778  finished 
+1779  finished 
+1780  finished 
+1781  finished 
+1782  finished 
+1783  finished 
+1784  finished 
+1785  finished 
+1786  finished 
+1787  finished 
+1788  finished 
+1789  finished 
+1790  finished 
+1791  finished 
+1792  finished 
+1793  finished 
+1794  finished 
+1795  finished 
+1796  finished 
+1797  finished 
+1798  finished 
+1799  finished 
+1800  finished 
+1801  finished 
+1802  finished 
+1803  finished 
+1804  finished 
+1805  finished 
+1806  finished 
+1807  finished 
+1808  finished 
+1809  finished 
+1810  finished 
+1811  finished 
+1812  finished 
+1813  finished 
+1814  finished 
+1815  finished 
+1816  finished 
+1817  finished 
+1818  finished 
+1819  finished 
+1820  finished 
+1821  finished 
+1822  finished 
+1823  finished 
+1824  finished 
+1825  finished 
+1826  finished 
+1827  finished 
+1828  finished 
+1829  finished 
+1830  finished 
+1831  finished 
+1832  finished 
+1833  finished 
+1834  finished 
+1835  finished 
+1836  finished 
+1837  finished 
+1838  finished 
+1839  finished 
+1840  finished 
+1841  finished 
+1842  finished 
+1843  finished 
+1844  finished 
+1845  finished 
+1846  finished 
+1847  finished 
+1848  finished 
+1849  finished 
+1850  finished 
+1851  finished 
+1852  finished 
+1853  finished 
+1854  finished 
+1855  finished 
+1856  finished 
+1857  finished 
+1858  finished 
+1859  finished 
+1860  finished 
+1861  finished 
+1862  finished 
+1863  finished 
+1864  finished 
+1865  finished 
+1866  finished 
+1867  finished 
+1868  finished 
+1869  finished 
+1870  finished 
+1871  finished 
+1872  finished 
+1873  finished 
+1874  finished 
+1875  finished 
+1876  finished 
+1877  finished 
+1878  finished 
+1879  finished 
+1880  finished 
+1881  finished 
+1882  finished 
+1883  finished 
+1884  finished 
+1885  finished 
+1886  finished 
+1887  finished 
+1888  finished 
+1889  finished 
+1890  finished 
+1891  finished 
+1892  finished 
+1893  finished 
+1894  finished 
+1895  finished 
+1896  finished 
+1897  finished 
+1898  finished 
+1899  finished 
+1900  finished 
+1901  finished 
+1902  finished 
+1903  finished 
+1904  finished 
+1905  finished 
+1906  finished 
+1907  finished 
+1908  finished 
+1909  finished 
+1910  finished 
+1911  finished 
+1912  finished 
+1913  finished 
+1914  finished 
+1915  finished 
+1916  finished 
+1917  finished 
+1918  finished 
+1919  finished 
+1920  finished 
+1921  finished 
+1922  finished 
+1923  finished 
+1924  finished 
+1925  finished 
+1926  finished 
+1927  finished 
+1928  finished 
+1929  finished 
+1930  finished 
+1931  finished 
+1932  finished 
+1933  finished 
+1934  finished 
+1935  finished 
+1936  finished 
+1937  finished 
+1938  finished 
+1939  finished 
+1940  finished 
+1941  finished 
+1942  finished 
+1943  finished 
+1944  finished 
+1945  finished 
+1946  finished 
+1947  finished 
+1948  finished 
+1949  finished 
+1950  finished 
+1951  finished 
+1952  finished 
+1953  finished 
+1954  finished 
+1955  finished 
+1956  finished 
+1957  finished 
+1958  finished 
+1959  finished 
+1960  finished 
+1961  finished 
+1962  finished 
+1963  finished 
+1964  finished 
+1965  finished 
+1966  finished 
+1967  finished 
+1968  finished 
+1969  finished 
+1970  finished 
+1971  finished 
+1972  finished 
+1973  finished 
+1974  finished 
+1975  finished 
+1976  finished 
+1977  finished 
+1978  finished 
+1979  finished 
+1980  finished 
+1981  finished 
+1982  finished 
+1983  finished 
+1984  finished 
+1985  finished 
+1986  finished 
+1987  finished 
+1988  finished 
+1989  finished 
+1990  finished 
+1991  finished 
+1992  finished 
+1993  finished 
+1994  finished 
+1995  finished 
+1996  finished 
+1997  finished 
+1998  finished 
+1999  finished 
+2000  finished 
+2001  finished 
+2002  finished 
+2003  finished 
+2004  finished 
+2005  finished 
+2006  finished 
+2007  finished 
+2008  finished 
+2009  finished 
+2010  finished 
+2011  finished 
+2012  finished 
+2013  finished 
+2014  finished 
+2015  finished 
+2016  finished 
+2017  finished 
+2018  finished 
+2019  finished 
+2020  finished 
+2021  finished 
+2022  finished 
+2023  finished 
+2024  finished 
+2025  finished 
+2026  finished 
+2027  finished 
+2028  finished 
+2029  finished 
+2030  finished 
+2031  finished 
+2032  finished 
+2033  finished 
+2034  finished 
+2035  finished 
+2036  finished 
+2037  finished 
+2038  finished 
+2039  finished 
+2040  finished 
+2041  finished 
+2042  finished 
+2043  finished 
+2044  finished 
+2045  finished 
+2046  finished 
+2047  finished 
+2048  finished 
+2049  finished 
+2050  finished 
+2051  finished 
+2052  finished 
+2053  finished 
+2054  finished 
+2055  finished 
+2056  finished 
+2057  finished 
+2058  finished 
+2059  finished 
+2060  finished 
+2061  finished 
+2062  finished 
+2063  finished 
+2064  finished 
+2065  finished 
+2066  finished 
+2067  finished 
+2068  finished 
+2069  finished 
+2070  finished 
+2071  finished 
+2072  finished 
+2073  finished 
+2074  finished 
+2075  finished 
+2076  finished 
+2077  finished 
+2078  finished 
+2079  finished 
+2080  finished 
+2081  finished 
+2082  finished 
+2083  finished 
+2084  finished 
+2085  finished 
+2086  finished 
+2087  finished 
+2088  finished 
+2089  finished 
+2090  finished 
+2091  finished 
+2092  finished 
+2093  finished 
+2094  finished 
+2095  finished 
+2096  finished 
+2097  finished 
+2098  finished 
+2099  finished 
+2100  finished 
+2101  finished 
+2102  finished 
+2103  finished 
+2104  finished 
+2105  finished 
+2106  finished 
+2107  finished 
+2108  finished 
+2109  finished 
+2110  finished 
+2111  finished 
+2112  finished 
+2113  finished 
+2114  finished 
+2115  finished 
+2116  finished 
+2117  finished 
+2118  finished 
+2119  finished 
+2120  finished 
+2121  finished 
+2122  finished 
+2123  finished 
+2124  finished 
+2125  finished 
+2126  finished 
+2127  finished 
+2128  finished 
+2129  finished 
+2130  finished 
+2131  finished 
+2132  finished 
+2133  finished 
+2134  finished 
+2135  finished 
+2136  finished 
+2137  finished 
+2138  finished 
+2139  finished 
+2140  finished 
+2141  finished 
+2142  finished 
+2143  finished 
+2144  finished 
+2145  finished 
+2146  finished 
+2147  finished 
+2148  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+2149  finished 
+2150  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+2151  finished 
+2152  finished 
+2153  finished 
+2154  finished 
+2155  finished 
+2156  finished 
+2157  finished 
+2158  finished 
+2159  finished 
+2160  finished 
+2161  finished 
+2162  finished 
+2163  finished 
+2164  finished 
+2165  finished 
+2166  finished 
+2167  finished 
+2168  finished 
+2169  finished 
+2170  finished 
+2171  finished 
+2172  finished 
+2173  finished 
+2174  finished 
+2175  finished 
+2176  finished 
+2177  finished 
+2178  finished 
+2179  finished 
+2180  finished 
+2181  finished 
+2182  finished 
+2183  finished 
+2184  finished 
+2185  finished 
+2186  finished 
+2187  finished 
+2188  finished 
+2189  finished 
+2190  finished 
+2191  finished 
+2192  finished 
+2193  finished 
+2194  finished 
+2195  finished 
+2196  finished 
+2197  finished 
+2198  finished 
+2199  finished 
+2200  finished 
+2201  finished 
+2202  finished 
+2203  finished 
+2204  finished 
+2205  finished 
+2206  finished 
+2207  finished 
+2208  finished 
+2209  finished 
+2210  finished 
+2211  finished 
+2212  finished 
+2213  finished 
+2214  finished 
+2215  finished 
+2216  finished 
+2217  finished 
+2218  finished 
+2219  finished 
+2220  finished 
+2221  finished 
+2222  finished 
+2223  finished 
+2224  finished 
+2225  finished 
+2226  finished 
+2227  finished 
+2228  finished 
+2229  finished 
+2230  finished 
+2231  finished 
+2232  finished 
+2233  finished 
+2234  finished 
+2235  finished 
+2236  finished 
+2237  finished 
+2238  finished 
+2239  finished 
+2240  finished 
+2241  finished 
+2242  finished 
+2243  finished 
+2244  finished 
+2245  finished 
+2246  finished 
+2247  finished 
+2248  finished 
+2249  finished 
+2250  finished 
+2251  finished 
+2252  finished 
+2253  finished 
+2254  finished 
+2255  finished 
+2256  finished 
+2257  finished 
+2258  finished 
+2259  finished 
+2260  finished 
+2261  finished 
+2262  finished 
+2263  finished 
+2264  finished 
+2265  finished 
+2266  finished 
+2267  finished 
+2268  finished 
+2269  finished 
+2270  finished 
+2271  finished 
+2272  finished 
+2273  finished 
+2274  finished 
+2275  finished 
+2276  finished 
+2277  finished 
+2278  finished 
+2279  finished 
+2280  finished 
+2281  finished 
+2282  finished 
+2283  finished 
+2284  finished 
+2285  finished 
+2286  finished 
+2287  finished 
+2288  finished 
+2289  finished 
+2290  finished 
+2291  finished 
+2292  finished 
+2293  finished 
+2294  finished 
+2295  finished 
+Error : Column `CaClasses` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+2296  finished 
+2297  finished 
+2298  finished 
+2299  finished 
+2300  finished 
+2301  finished 
+2302  finished 
+2303  finished 
+2304  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+2305  finished 
+2306  finished 
+2307  finished 
+2308  finished 
+2309  finished 
+2310  finished 
+2311  finished 
+2312  finished 
+2313  finished 
+2314  finished 
+2315  finished 
+2316  finished 
+2317  finished 
+2318  finished 
+2319  finished 
+2320  finished 
+2321  finished 
+2322  finished 
+2323  finished 
+2324  finished 
+2325  finished 
+2326  finished 
+2327  finished 
+2328  finished 
+2329  finished 
+2330  finished 
+2331  finished 
+2332  finished 
+2333  finished 
+2334  finished 
+2335  finished 
+2336  finished 
+2337  finished 
+2338  finished 
+2339  finished 
+2340  finished 
+2341  finished 
+2342  finished 
+2343  finished 
+2344  finished 
+2345  finished 
+2346  finished 
+2347  finished 
+2348  finished 
+2349  finished 
+2350  finished 
+2351  finished 
+2352  finished 
+2353  finished 
+2354  finished 
+2355  finished 
+2356  finished 
+2357  finished 
+2358  finished 
+2359  finished 
+2360  finished 
+2361  finished 
+2362  finished 
+2363  finished 
+2364  finished 
+2365  finished 
+2366  finished 
+2367  finished 
+2368  finished 
+2369  finished 
+2370  finished 
+2371  finished 
+2372  finished 
+2373  finished 
+2374  finished 
+2375  finished 
+2376  finished 
+2377  finished 
+2378  finished 
+2379  finished 
+2380  finished 
+2381  finished 
+2382  finished 
+2383  finished 
+2384  finished 
+2385  finished 
+2386  finished 
+2387  finished 
+2388  finished 
+2389  finished 
+2390  finished 
+2391  finished 
+2392  finished 
+2393  finished 
+2394  finished 
+2395  finished 
+2396  finished 
+2397  finished 
+2398  finished 
+2399  finished 
+2400  finished 
+2401  finished 
+2402  finished 
+2403  finished 
+2404  finished 
+2405  finished 
+2406  finished 
+2407  finished 
+2408  finished 
+2409  finished 
+2410  finished 
+2411  finished 
+2412  finished 
+2413  finished 
+2414  finished 
+2415  finished 
+2416  finished 
+2417  finished 
+2418  finished 
+2419  finished 
+2420  finished 
+2421  finished 
+2422  finished 
+2423  finished 
+2424  finished 
+2425  finished 
+2426  finished 
+2427  finished 
+2428  finished 
+2429  finished 
+2430  finished 
+2431  finished 
+2432  finished 
+2433  finished 
+2434  finished 
+2435  finished 
+2436  finished 
+2437  finished 
+2438  finished 
+2439  finished 
+2440  finished 
+2441  finished 
+2442  finished 
+2443  finished 
+2444  finished 
+2445  finished 
+2446  finished 
+2447  finished 
+2448  finished 
+2449  finished 
+2450  finished 
+2451  finished 
+2452  finished 
+2453  finished 
+2454  finished 
+2455  finished 
+2456  finished 
+2457  finished 
+2458  finished 
+2459  finished 
+2460  finished 
+2461  finished 
+2462  finished 
+2463  finished 
+2464  finished 
+2465  finished 
+2466  finished 
+2467  finished 
+2468  finished 
+2469  finished 
+2470  finished 
+2471  finished 
+2472  finished 
+2473  finished 
+2474  finished 
+2475  finished 
+2476  finished 
+2477  finished 
+2478  finished 
+2479  finished 
+2480  finished 
+2481  finished 
+2482  finished 
+2483  finished 
+2484  finished 
+2485  finished 
+2486  finished 
+2487  finished 
+2488  finished 
+2489  finished 
+2490  finished 
+2491  finished 
+2492  finished 
+2493  finished 
+2494  finished 
+2495  finished 
+2496  finished 
+2497  finished 
+2498  finished 
+2499  finished 
+2500  finished 
+2501  finished 
+2502  finished 
+2503  finished 
+2504  finished 
+2505  finished 
+2506  finished 
+2507  finished 
+2508  finished 
+2509  finished 
+2510  finished 
+2511  finished 
+2512  finished 
+2513  finished 
+2514  finished 
+2515  finished 
+2516  finished 
+2517  finished 
+2518  finished 
+2519  finished 
+2520  finished 
+2521  finished 
+2522  finished 
+2523  finished 
+2524  finished 
+2525  finished 
+2526  finished 
+2527  finished 
+2528  finished 
+2529  finished 
+2530  finished 
+2531  finished 
+2532  finished 
+2533  finished 
+2534  finished 
+2535  finished 
+2536  finished 
+2537  finished 
+2538  finished 
+2539  finished 
+2540  finished 
+2541  finished 
+2542  finished 
+2543  finished 
+2544  finished 
+2545  finished 
+2546  finished 
+2547  finished 
+2548  finished 
+2549  finished 
+2550  finished 
+2551  finished 
+2552  finished 
+2553  finished 
+2554  finished 
+2555  finished 
+2556  finished 
+2557  finished 
+2558  finished 
+2559  finished 
+2560  finished 
+2561  finished 
+2562  finished 
+2563  finished 
+2564  finished 
+2565  finished 
+2566  finished 
+2567  finished 
+2568  finished 
+2569  finished 
+2570  finished 
+2571  finished 
+2572  finished 
+2573  finished 
+2574  finished 
+2575  finished 
+2576  finished 
+2577  finished 
+2578  finished 
+2579  finished 
+2580  finished 
+2581  finished 
+2582  finished 
+2583  finished 
+2584  finished 
+2585  finished 
+2586  finished 
+2587  finished 
+2588  finished 
+2589  finished 
+2590  finished 
+2591  finished 
+2592  finished 
+2593  finished 
+2594  finished 
+2595  finished 
+2596  finished 
+2597  finished 
+2598  finished 
+2599  finished 
+2600  finished 
+2601  finished 
+2602  finished 
+2603  finished 
+2604  finished 
+2605  finished 
+2606  finished 
+2607  finished 
+2608  finished 
+2609  finished 
+2610  finished 
+2611  finished 
+2612  finished 
+2613  finished 
+2614  finished 
+2615  finished 
+2616  finished 
+2617  finished 
+2618  finished 
+2619  finished 
+2620  finished 
+2621  finished 
+2622  finished 
+2623  finished 
+2624  finished 
+2625  finished 
+2626  finished 
+2627  finished 
+2628  finished 
+2629  finished 
+2630  finished 
+2631  finished 
+2632  finished 
+2633  finished 
+2634  finished 
+2635  finished 
+2636  finished 
+2637  finished 
+2638  finished 
+2639  finished 
+2640  finished 
+2641  finished 
+2642  finished 
+2643  finished 
+2644  finished 
+2645  finished 
+Error : Column `Substatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+2646  finished 
+2647  finished 
+2648  finished 
+2649  finished 
+2650  finished 
+2651  finished 
+2652  finished 
+2653  finished 
+2654  finished 
+2655  finished 
+2656  finished 
+2657  finished 
+2658  finished 
+2659  finished 
+2660  finished 
+2661  finished 
+2662  finished 
+2663  finished 
+2664  finished 
+2665  finished 
+2666  finished 
+2667  finished 
+2668  finished 
+2669  finished 
+2670  finished 
+2671  finished 
+2672  finished 
+2673  finished 
+2674  finished 
+2675  finished 
+2676  finished 
+2677  finished 
+2678  finished 
+2679  finished 
+2680  finished 
+2681  finished 
+2682  finished 
+2683  finished 
+2684  finished 
+2685  finished 
+2686  finished 
+2687  finished 
+2688  finished 
+2689  finished 
+2690  finished 
+2691  finished 
+2692  finished 
+2693  finished 
+2694  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+2695  finished 
+2696  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+Error : Column `LTFstatuss` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+2697  finished 
+2698  finished 
+2699  finished 
+2700  finished 
+2701  finished 
+2702  finished 
+2703  finished 
+2704  finished 
+2705  finished 
+2706  finished 
+2707  finished 
+2708  finished 
+2709  finished 
+2710  finished 
+2711  finished 
+2712  finished 
+2713  finished 
+2714  finished 
+2715  finished 
+2716  finished 
+2717  finished 
+2718  finished 
+2719  finished 
+2720  finished 
+2721  finished 
+2722  finished 
+2723  finished 
+2724  finished 
+2725  finished 
+2726  finished 
+2727  finished 
+2728  finished 
+2729  finished 
+2730  finished 
+2731  finished 
+2732  finished 
+2733  finished 
+2734  finished 
+2735  finished 
+2736  finished 
+2737  finished 
+2738  finished 
+2739  finished 
+2740  finished 
+2741  finished 
+2742  finished 
+2743  finished 
+2744  finished 
+2745  finished 
+2746  finished 
+2747  finished 
+2748  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+2749  finished 
+2750  finished 
+2751  finished 
+2752  finished 
+2753  finished 
+2754  finished 
+2755  finished 
+2756  finished 
+2757  finished 
+2758  finished 
+2759  finished 
+2760  finished 
+2761  finished 
+2762  finished 
+2763  finished 
+2764  finished 
+2765  finished 
+2766  finished 
+2767  finished 
+2768  finished 
+2769  finished 
+2770  finished 
+2771  finished 
+2772  finished 
+2773  finished 
+2774  finished 
+2775  finished 
+2776  finished 
+2777  finished 
+2778  finished 
+2779  finished 
+2780  finished 
+2781  finished 
+2782  finished 
+2783  finished 
+2784  finished 
+2785  finished 
+2786  finished 
+2787  finished 
+2788  finished 
+2789  finished 
+2790  finished 
+2791  finished 
+2792  finished 
+2793  finished 
+2794  finished 
+2795  finished 
+2796  finished 
+2797  finished 
+2798  finished 
+2799  finished 
+2800  finished 
+2801  finished 
+2802  finished 
+2803  finished 
+2804  finished 
+2805  finished 
+2806  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+2807  finished 
+2808  finished 
+2809  finished 
+2810  finished 
+2811  finished 
+2812  finished 
+2813  finished 
+2814  finished 
+2815  finished 
+2816  finished 
+2817  finished 
+2818  finished 
+2819  finished 
+Error : Column `LTFstatuss` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+2820  finished 
+2821  finished 
+2822  finished 
+Error : Column `LTFstatuss` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+2823  finished 
+2824  finished 
+2825  finished 
+2826  finished 
+2827  finished 
+2828  finished 
+2829  finished 
+2830  finished 
+2831  finished 
+2832  finished 
+2833  finished 
+2834  finished 
+2835  finished 
+2836  finished 
+2837  finished 
+2838  finished 
+2839  finished 
+2840  finished 
+2841  finished 
+2842  finished 
+2843  finished 
+2844  finished 
+2845  finished 
+2846  finished 
+2847  finished 
+2848  finished 
+2849  finished 
+2850  finished 
+2851  finished 
+2852  finished 
+2853  finished 
+2854  finished 
+2855  finished 
+2856  finished 
+2857  finished 
+2858  finished 
+2859  finished 
+2860  finished 
+2861  finished 
+2862  finished 
+2863  finished 
+2864  finished 
+2865  finished 
+2866  finished 
+2867  finished 
+2868  finished 
+2869  finished 
+2870  finished 
+2871  finished 
+2872  finished 
+2873  finished 
+2874  finished 
+2875  finished 
+2876  finished 
+2877  finished 
+2878  finished 
+2879  finished 
+2880  finished 
+2881  finished 
+2882  finished 
+2883  finished 
+2884  finished 
+2885  finished 
+2886  finished 
+2887  finished 
+2888  finished 
+2889  finished 
+2890  finished 
+2891  finished 
+2892  finished 
+2893  finished 
+2894  finished 
+2895  finished 
+2896  finished 
+2897  finished 
+2898  finished 
+2899  finished 
+2900  finished 
+2901  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+2902  finished 
+2903  finished 
+2904  finished 
+2905  finished 
+2906  finished 
+2907  finished 
+2908  finished 
+2909  finished 
+2910  finished 
+2911  finished 
+2912  finished 
+2913  finished 
+2914  finished 
+2915  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+2916  finished 
+2917  finished 
+2918  finished 
+2919  finished 
+2920  finished 
+2921  finished 
+2922  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+2923  finished 
+2924  finished 
+2925  finished 
+2926  finished 
+2927  finished 
+2928  finished 
+2929  finished 
+2930  finished 
+2931  finished 
+2932  finished 
+2933  finished 
+2934  finished 
+2935  finished 
+2936  finished 
+2937  finished 
+2938  finished 
+2939  finished 
+2940  finished 
+2941  finished 
+2942  finished 
+2943  finished 
+2944  finished 
+2945  finished 
+2946  finished 
+2947  finished 
+2948  finished 
+2949  finished 
+2950  finished 
+2951  finished 
+2952  finished 
+2953  finished 
+2954  finished 
+2955  finished 
+2956  finished 
+2957  finished 
+2958  finished 
+2959  finished 
+2960  finished 
+2961  finished 
+2962  finished 
+2963  finished 
+2964  finished 
+2965  finished 
+2966  finished 
+2967  finished 
+2968  finished 
+2969  finished 
+2970  finished 
+2971  finished 
+2972  finished 
+2973  finished 
+2974  finished 
+2975  finished 
+2976  finished 
+2977  finished 
+2978  finished 
+2979  finished 
+2980  finished 
+2981  finished 
+2982  finished 
+2983  finished 
+2984  finished 
+2985  finished 
+2986  finished 
+2987  finished 
+2988  finished 
+2989  finished 
+2990  finished 
+2991  finished 
+2992  finished 
+2993  finished 
+2994  finished 
+2995  finished 
+2996  finished 
+2997  finished 
+2998  finished 
+2999  finished 
+3000  finished 
+3001  finished 
+3002  finished 
+3003  finished 
+3004  finished 
+3005  finished 
+3006  finished 
+3007  finished 
+3008  finished 
+3009  finished 
+3010  finished 
+3011  finished 
+3012  finished 
+3013  finished 
+3014  finished 
+3015  finished 
+3016  finished 
+3017  finished 
+3018  finished 
+3019  finished 
+3020  finished 
+3021  finished 
+3022  finished 
+3023  finished 
+3024  finished 
+3025  finished 
+3026  finished 
+3027  finished 
+3028  finished 
+3029  finished 
+3030  finished 
+3031  finished 
+3032  finished 
+3033  finished 
+3034  finished 
+3035  finished 
+3036  finished 
+3037  finished 
+3038  finished 
+3039  finished 
+3040  finished 
+3041  finished 
+3042  finished 
+3043  finished 
+3044  finished 
+3045  finished 
+3046  finished 
+3047  finished 
+3048  finished 
+3049  finished 
+3050  finished 
+3051  finished 
+3052  finished 
+3053  finished 
+3054  finished 
+3055  finished 
+3056  finished 
+3057  finished 
+3058  finished 
+3059  finished 
+3060  finished 
+3061  finished 
+3062  finished 
+3063  finished 
+3064  finished 
+3065  finished 
+3066  finished 
+3067  finished 
+3068  finished 
+3069  finished 
+3070  finished 
+3071  finished 
+3072  finished 
+3073  finished 
+3074  finished 
+3075  finished 
+3076  finished 
+3077  finished 
+3078  finished 
+3079  finished 
+3080  finished 
+3081  finished 
+3082  finished 
+3083  finished 
+3084  finished 
+3085  finished 
+3086  finished 
+3087  finished 
+3088  finished 
+3089  finished 
+3090  finished 
+3091  finished 
+3092  finished 
+3093  finished 
+3094  finished 
+3095  finished 
+3096  finished 
+3097  finished 
+3098  finished 
+3099  finished 
+3100  finished 
+3101  finished 
+Error : Column `CaClasses` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3102  finished 
+3103  finished 
+3104  finished 
+3105  finished 
+3106  finished 
+3107  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3108  finished 
+3109  finished 
+3110  finished 
+3111  finished 
+3112  finished 
+3113  finished 
+3114  finished 
+3115  finished 
+3116  finished 
+3117  finished 
+3118  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3119  finished 
+3120  finished 
+3121  finished 
+3122  finished 
+3123  finished 
+3124  finished 
+3125  finished 
+3126  finished 
+3127  finished 
+3128  finished 
+3129  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3130  finished 
+3131  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3132  finished 
+3133  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3134  finished 
+3135  finished 
+3136  finished 
+3137  finished 
+3138  finished 
+3139  finished 
+3140  finished 
+Error : Columns `CaClasses`, `Substatus` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3141  finished 
+3142  finished 
+3143  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3144  finished 
+3145  finished 
+3146  finished 
+3147  finished 
+3148  finished 
+3149  finished 
+3150  finished 
+3151  finished 
+3152  finished 
+3153  finished 
+3154  finished 
+3155  finished 
+3156  finished 
+3157  finished 
+3158  finished 
+3159  finished 
+3160  finished 
+3161  finished 
+3162  finished 
+3163  finished 
+3164  finished 
+3165  finished 
+3166  finished 
+3167  finished 
+3168  finished 
+3169  finished 
+3170  finished 
+3171  finished 
+3172  finished 
+3173  finished 
+3174  finished 
+3175  finished 
+3176  finished 
+3177  finished 
+3178  finished 
+3179  finished 
+3180  finished 
+3181  finished 
+3182  finished 
+3183  finished 
+3184  finished 
+3185  finished 
+3186  finished 
+3187  finished 
+3188  finished 
+3189  finished 
+3190  finished 
+3191  finished 
+3192  finished 
+3193  finished 
+3194  finished 
+3195  finished 
+3196  finished 
+3197  finished 
+3198  finished 
+3199  finished 
+3200  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3201  finished 
+3202  finished 
+3203  finished 
+3204  finished 
+Error : Column `Substatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3205  finished 
+3206  finished 
+3207  finished 
+3208  finished 
+3209  finished 
+3210  finished 
+3211  finished 
+3212  finished 
+3213  finished 
+3214  finished 
+3215  finished 
+3216  finished 
+3217  finished 
+3218  finished 
+3219  finished 
+3220  finished 
+3221  finished 
+3222  finished 
+3223  finished 
+3224  finished 
+3225  finished 
+3226  finished 
+3227  finished 
+3228  finished 
+3229  finished 
+3230  finished 
+3231  finished 
+3232  finished 
+3233  finished 
+3234  finished 
+3235  finished 
+3236  finished 
+3237  finished 
+3238  finished 
+3239  finished 
+3240  finished 
+3241  finished 
+3242  finished 
+3243  finished 
+3244  finished 
+3245  finished 
+3246  finished 
+Error : Column `CaClasses` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3247  finished 
+3248  finished 
+3249  finished 
+3250  finished 
+3251  finished 
+3252  finished 
+3253  finished 
+3254  finished 
+3255  finished 
+3256  finished 
+3257  finished 
+Error : Columns `CaClasses`, `Substatus` must be 1d atomic vectors or lists
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3258  finished 
+3259  finished 
+3260  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3261  finished 
+3262  finished 
+3263  finished 
+3264  finished 
+3265  finished 
+3266  finished 
+3267  finished 
+3268  finished 
+3269  finished 
+3270  finished 
+3271  finished 
+3272  finished 
+3273  finished 
+3274  finished 
+3275  finished 
+3276  finished 
+3277  finished 
+3278  finished 
+3279  finished 
+3280  finished 
+3281  finished 
+3282  finished 
+3283  finished 
+3284  finished 
+3285  finished 
+3286  finished 
+3287  finished 
+3288  finished 
+3289  finished 
+3290  finished 
+3291  finished 
+3292  finished 
+3293  finished 
+3294  finished 
+3295  finished 
+3296  finished 
+3297  finished 
+3298  finished 
+3299  finished 
+3300  finished 
+3301  finished 
+3302  finished 
+3303  finished 
+3304  finished 
+3305  finished 
+3306  finished 
+3307  finished 
+3308  finished 
+3309  finished 
+3310  finished 
+3311  finished 
+3312  finished 
+3313  finished 
+3314  finished 
+3315  finished 
+3316  finished 
+3317  finished 
+3318  finished 
+3319  finished 
+3320  finished 
+3321  finished 
+3322  finished 
+3323  finished 
+3324  finished 
+3325  finished 
+3326  finished 
+3327  finished 
+3328  finished 
+3329  finished 
+3330  finished 
+3331  finished 
+3332  finished 
+3333  finished 
+3334  finished 
+3335  finished 
+3336  finished 
+3337  finished 
+3338  finished 
+3339  finished 
+3340  finished 
+3341  finished 
+3342  finished 
+3343  finished 
+3344  finished 
+3345  finished 
+3346  finished 
+3347  finished 
+3348  finished 
+3349  finished 
+3350  finished 
+3351  finished 
+3352  finished 
+3353  finished 
+3354  finished 
+3355  finished 
+3356  finished 
+3357  finished 
+3358  finished 
+3359  finished 
+3360  finished 
+3361  finished 
+3362  finished 
+3363  finished 
+3364  finished 
+3365  finished 
+3366  finished 
+3367  finished 
+3368  finished 
+3369  finished 
+3370  finished 
+3371  finished 
+3372  finished 
+3373  finished 
+3374  finished 
+3375  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3376  finished 
+3377  finished 
+3378  finished 
+3379  finished 
+3380  finished 
+3381  finished 
+3382  finished 
+3383  finished 
+3384  finished 
+3385  finished 
+3386  finished 
+3387  finished 
+3388  finished 
+3389  finished 
+3390  finished 
+3391  finished 
+3392  finished 
+3393  finished 
+3394  finished 
+3395  finished 
+3396  finished 
+3397  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3398  finished 
+3399  finished 
+3400  finished 
+3401  finished 
+3402  finished 
+Error : Column `Substatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3403  finished 
+3404  finished 
+3405  finished 
+3406  finished 
+3407  finished 
+3408  finished 
+3409  finished 
+3410  finished 
+3411  finished 
+3412  finished 
+3413  finished 
+3414  finished 
+3415  finished 
+3416  finished 
+3417  finished 
+3418  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3419  finished 
+3420  finished 
+3421  finished 
+3422  finished 
+3423  finished 
+3424  finished 
+3425  finished 
+3426  finished 
+3427  finished 
+3428  finished 
+3429  finished 
+3430  finished 
+3431  finished 
+3432  finished 
+3433  finished 
+3434  finished 
+3435  finished 
+3436  finished 
+3437  finished 
+3438  finished 
+3439  finished 
+3440  finished 
+3441  finished 
+3442  finished 
+3443  finished 
+3444  finished 
+3445  finished 
+3446  finished 
+3447  finished 
+3448  finished 
+3449  finished 
+3450  finished 
+3451  finished 
+3452  finished 
+3453  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3454  finished 
+3455  finished 
+3456  finished 
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+3457  finished 
+3458  finished 
+3459  finished 
+3460  finished 
+3461  finished 
+3462  finished 
+3463  finished 
+3464  finished 
+3465  finished 
+3466  finished 
+3467  finished 
+3468  finished 
+3469  finished 
+3470  finished 
+3471  finished 
+3472  finished 
+3473  finished 
+3474  finished 
+3475  finished 
+3476  finished 
+3477  finished 
+3478  finished 
+3479  finished 
+3480  finished 
+3481  finished 
+3482  finished 
+3483  finished 
+3484  finished 
+3485  finished 
+3486  finished 
+3487  finished 
+3488  finished 
+3489  finished 
+3490  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"divLeakAutopsyCauses\"]/table/tbody/tr[1]/td[1]/input"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3491  finished 
+3492  finished 
+3493  finished 
+3494  finished 
+3495  finished 
+3496  finished 
+3497  finished 
+3498  finished 
+3499  finished 
+3500  finished 
+3501  finished 
+3502  finished 
+3503  finished 
+3504  finished 
+3505  finished 
+3506  finished 
+3507  finished 
+3508  finished 
+3509  finished 
+3510  finished 
+3511  finished 
+3512  finished 
+3513  finished 
+3514  finished 
+3515  finished 
+3516  finished 
+3517  finished 
+3518  finished 
+3519  finished 
+3520  finished 
+3521  finished 
+3522  finished 
+3523  finished 
+3524  finished 
+3525  finished 
+3526  finished 
+3527  finished 
+3528  finished 
+3529  finished 
+3530  finished 
+3531  finished 
+3532  finished 
+3533  finished 
+3534  finished 
+3535  finished 
+3536  finished 
+3537  finished 
+3538  finished 
+3539  finished 
+3540  finished 
+3541  finished 
+3542  finished 
+3543  finished 
+3544  finished 
+3545  finished 
+3546  finished 
+3547  finished 
+3548  finished 
+3549  finished 
+3550  finished 
+3551  finished 
+3552  finished 
+3553  finished 
+3554  finished 
+3555  finished 
+3556  finished 
+3557  finished 
+3558  finished 
+3559  finished 
+3560  finished 
+3561  finished 
+3562  finished 
+3563  finished 
+3564  finished 
+3565  finished 
+3566  finished 
+3567  finished 
+3568  finished 
+3569  finished 
+3570  finished 
+3571  finished 
+3572  finished 
+3573  finished 
+3574  finished 
+3575  finished 
+3576  finished 
+3577  finished 
+3578  finished 
+3579  finished 
+3580  finished 
+3581  finished 
+3582  finished 
+3583  finished 
+3584  finished 
+3585  finished 
+3586  finished 
+3587  finished 
+3588  finished 
+3589  finished 
+3590  finished 
+3591  finished 
+3592  finished 
+3593  finished 
+3594  finished 
+3595  finished 
+3596  finished 
+3597  finished 
+3598  finished 
+3599  finished 
+3600  finished 
+3601  finished 
+3602  finished 
+3603  finished 
+3604  finished 
+3605  finished 
+3606  finished 
+3607  finished 
+3608  finished 
+3609  finished 
+3610  finished 
+3611  finished 
+3612  finished 
+3613  finished 
+3614  finished 
+3615  finished 
+3616  finished 
+3617  finished 
+3618  finished 
+3619  finished 
+3620  finished 
+3621  finished 
+3622  finished 
+3623  finished 
+3624  finished 
+3625  finished 
+3626  finished 
+3627  finished 
+3628  finished 
+3629  finished 
+3630  finished 
+3631  finished 
+3632  finished 
+3633  finished 
+3634  finished 
+3635  finished 
+3636  finished 
+3637  finished 
+3638  finished 
+3639  finished 
+3640  finished 
+3641  finished 
+3642  finished 
+3643  finished 
+3644  finished 
+3645  finished 
+3646  finished 
+3647  finished 
+3648  finished 
+3649  finished 
+3650  finished 
+3651  finished 
+3652  finished 
+3653  finished 
+3654  finished 
+3655  finished 
+3656  finished 
+3657  finished 
+3658  finished 
+3659  finished 
+3660  finished 
+3661  finished 
+3662  finished 
+3663  finished 
+3664  finished 
+3665  finished 
+3666  finished 
+3667  finished 
+3668  finished 
+3669  finished 
+3670  finished 
+3671  finished 
+3672  finished 
+3673  finished 
+3674  finished 
+3675  finished 
+3676  finished 
+3677  finished 
+3678  finished 
+3679  finished 
+3680  finished 
+3681  finished 
+3682  finished 
+3683  finished 
+3684  finished 
+3685  finished 
+3686  finished 
+3687  finished 
+3688  finished 
+3689  finished 
+3690  finished 
+3691  finished 
+3692  finished 
+3693  finished 
+3694  finished 
+3695  finished 
+3696  finished 
+3697  finished 
+3698  finished 
+3699  finished 
+3700  finished 
+3701  finished 
+3702  finished 
+3703  finished 
+3704  finished 
+3705  finished 
+3706  finished 
+3707  finished 
+3708  finished 
+3709  finished 
+3710  finished 
+3711  finished 
+3712  finished 
+3713  finished 
+3714  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+3715  finished 
+3716  finished 
+3717  finished 
+3718  finished 
+3719  finished 
+3720  finished 
+3721  finished 
+3722  finished 
+3723  finished 
+3724  finished 
+3725  finished 
+3726  finished 
+3727  finished 
+3728  finished 
+3729  finished 
+3730  finished 
+3731  finished 
+3732  finished 
+3733  finished 
+3734  finished 
+3735  finished 
+3736  finished 
+3737  finished 
+3738  finished 
+3739  finished 
+3740  finished 
+3741  finished 
+3742  finished 
+3743  finished 
+3744  finished 
+3745  finished 
+3746  finished 
+3747  finished 
+3748  finished 
+3749  finished 
+3750  finished 
+3751  finished 
+3752  finished 
+3753  finished 
+3754  finished 
+3755  finished 
+3756  finished 
+3757  finished 
+3758  finished 
+3759  finished 
+3760  finished 
+3761  finished 
+3762  finished 
+3763  finished 
+3764  finished 
+3765  finished 
+3766  finished 
+3767  finished 
+3768  finished 
+3769  finished 
+3770  finished 
+3771  finished 
+3772  finished 
+3773  finished 
+3774  finished 
+3775  finished 
+3776  finished 
+3777  finished 
+3778  finished 
+3779  finished 
+3780  finished 
+3781  finished 
+3782  finished 
+3783  finished 
+3784  finished 
+3785  finished 
+3786  finished 
+3787  finished 
+3788  finished 
+3789  finished 
+3790  finished 
+3791  finished 
+3792  finished 
+3793  finished 
+3794  finished 
+3795  finished 
+3796  finished 
+3797  finished 
+3798  finished 
+3799  finished 
+3800  finished 
+3801  finished 
+3802  finished 
+3803  finished 
+3804  finished 
+3805  finished 
+3806  finished 
+3807  finished 
+3808  finished 
+3809  finished 
+3810  finished 
+3811  finished 
+3812  finished 
+3813  finished 
+3814  finished 
+3815  finished 
+3816  finished 
+3817  finished 
+3818  finished 
+3819  finished 
+3820  finished 
+3821  finished 
+3822  finished 
+3823  finished 
+3824  finished 
+3825  finished 
+3826  finished 
+3827  finished 
+3828  finished 
+3829  finished 
+3830  finished 
+3831  finished 
+3832  finished 
+3833  finished 
+3834  finished 
+3835  finished 
+3836  finished 
+3837  finished 
+3838  finished 
+3839  finished 
+3840  finished 
+3841  finished 
+3842  finished 
+3843  finished 
+3844  finished 
+3845  finished 
+3846  finished 
+3847  finished 
+3848  finished 
+3849  finished 
+3850  finished 
+3851  finished 
+3852  finished 
+3853  finished 
+3854  finished 
+3855  finished 
+3856  finished 
+3857  finished 
+3858  finished 
+3859  finished 
+3860  finished 
+3861  finished 
+3862  finished 
+3863  finished 
+3864  finished 
+3865  finished 
+3866  finished 
+3867  finished 
+3868  finished 
+3869  finished 
+3870  finished 
+3871  finished 
+3872  finished 
+3873  finished 
+3874  finished 
+3875  finished 
+3876  finished 
+3877  finished 
+3878  finished 
+3879  finished 
+3880  finished 
+3881  finished 
+3882  finished 
+3883  finished 
+3884  finished 
+3885  finished 
+3886  finished 
+3887  finished 
+3888  finished 
+3889  finished 
+3890  finished 
+3891  finished 
+3892  finished 
+3893  finished 
+3894  finished 
+3895  finished 
+3896  finished 
+3897  finished 
+3898  finished 
+3899  finished 
+3900  finished 
+3901  finished 
+3902  finished 
+3903  finished 
+3904  finished 
+3905  finished 
+3906  finished 
+3907  finished 
+3908  finished 
+3909  finished 
+3910  finished 
+3911  finished 
+3912  finished 
+3913  finished 
+3914  finished 
+3915  finished 
+3916  finished 
+3917  finished 
+3918  finished 
+3919  finished 
+3920  finished 
+3921  finished 
+3922  finished 
+3923  finished 
+3924  finished 
+3925  finished 
+3926  finished 
+3927  finished 
+3928  finished 
+3929  finished 
+3930  finished 
+3931  finished 
+3932  finished 
+3933  finished 
+3934  finished 
+3935  finished 
+3936  finished 
+3937  finished 
+3938  finished 
+3939  finished 
+3940  finished 
+3941  finished 
+3942  finished 
+3943  finished 
+3944  finished 
+3945  finished 
+3946  finished 
+3947  finished 
+3948  finished 
+3949  finished 
+3950  finished 
+3951  finished 
+3952  finished 
+3953  finished 
+3954  finished 
+3955  finished 
+3956  finished 
+3957  finished 
+3958  finished 
+3959  finished 
+3960  finished 
+3961  finished 
+3962  finished 
+3963  finished 
+3964  finished 
+3965  finished 
+3966  finished 
+3967  finished 
+3968  finished 
+3969  finished 
+3970  finished 
+3971  finished 
+3972  finished 
+3973  finished 
+3974  finished 
+3975  finished 
+3976  finished 
+3977  finished 
+3978  finished 
+3979  finished 
+3980  finished 
+3981  finished 
+3982  finished 
+3983  finished 
+3984  finished 
+3985  finished 
+3986  finished 
+3987  finished 
+3988  finished 
+3989  finished 
+3990  finished 
+3991  finished 
+3992  finished 
+3993  finished 
+3994  finished 
+3995  finished 
+3996  finished 
+3997  finished 
+3998  finished 
+3999  finished 
+4000  finished 
+4001  finished 
+4002  finished 
+4003  finished 
+4004  finished 
+4005  finished 
+4006  finished 
+4007  finished 
+4008  finished 
+4009  finished 
+4010  finished 
+4011  finished 
+4012  finished 
+4013  finished 
+4014  finished 
+4015  finished 
+4016  finished 
+4017  finished 
+4018  finished 
+4019  finished 
+4020  finished 
+4021  finished 
+4022  finished 
+4023  finished 
+4024  finished 
+4025  finished 
+4026  finished 
+4027  finished 
+4028  finished 
+4029  finished 
+4030  finished 
+4031  finished 
+4032  finished 
+4033  finished 
+4034  finished 
+4035  finished 
+4036  finished 
+4037  finished 
+4038  finished 
+4039  finished 
+4040  finished 
+4041  finished 
+4042  finished 
+4043  finished 
+4044  finished 
+4045  finished 
+4046  finished 
+4047  finished 
+4048  finished 
+4049  finished 
+4050  finished 
+4051  finished 
+4052  finished 
+4053  finished 
+4054  finished 
+4055  finished 
+4056  finished 
+4057  finished 
+4058  finished 
+4059  finished 
+4060  finished 
+4061  finished 
+4062  finished 
+4063  finished 
+4064  finished 
+4065  finished 
+4066  finished 
+4067  finished 
+4068  finished 
+4069  finished 
+4070  finished 
+4071  finished 
+4072  finished 
+4073  finished 
+4074  finished 
+4075  finished 
+4076  finished 
+4077  finished 
+4078  finished 
+4079  finished 
+4080  finished 
+4081  finished 
+4082  finished 
+4083  finished 
+4084  finished 
+4085  finished 
+4086  finished 
+4087  finished 
+4088  finished 
+4089  finished 
+4090  finished 
+4091  finished 
+4092  finished 
+4093  finished 
+4094  finished 
+4095  finished 
+4096  finished 
+4097  finished 
+4098  finished 
+4099  finished 
+4100  finished 
+4101  finished 
+4102  finished 
+4103  finished 
+4104  finished 
+4105  finished 
+4106  finished 
+4107  finished 
+4108  finished 
+4109  finished 
+4110  finished 
+4111  finished 
+4112  finished 
+4113  finished 
+4114  finished 
+4115  finished 
+4116  finished 
+4117  finished 
+4118  finished 
+4119  finished 
+4120  finished 
+4121  finished 
+4122  finished 
+4123  finished 
+4124  finished 
+4125  finished 
+4126  finished 
+4127  finished 
+4128  finished 
+4129  finished 
+4130  finished 
+4131  finished 
+4132  finished 
+4133  finished 
+4134  finished 
+4135  finished 
+4136  finished 
+4137  finished 
+4138  finished 
+4139  finished 
+4140  finished 
+4141  finished 
+4142  finished 
+4143  finished 
+4144  finished 
+4145  finished 
+4146  finished 
+4147  finished 
+4148  finished 
+4149  finished 
+4150  finished 
+4151  finished 
+4152  finished 
+4153  finished 
+4154  finished 
+4155  finished 
+4156  finished 
+4157  finished 
+4158  finished 
+4159  finished 
+4160  finished 
+4161  finished 
+4162  finished 
+4163  finished 
+4164  finished 
+4165  finished 
+4166  finished 
+4167  finished 
+4168  finished 
+4169  finished 
+4170  finished 
+4171  finished 
+4172  finished 
+4173  finished 
+4174  finished 
+4175  finished 
+4176  finished 
+4177  finished 
+4178  finished 
+4179  finished 
+4180  finished 
+4181  finished 
+4182  finished 
+4183  finished 
+4184  finished 
+4185  finished 
+4186  finished 
+4187  finished 
+4188  finished 
+4189  finished 
+4190  finished 
+4191  finished 
+4192  finished 
+4193  finished 
+4194  finished 
+4195  finished 
+4196  finished 
+4197  finished 
+4198  finished 
+4199  finished 
+4200  finished 
+4201  finished 
+4202  finished 
+4203  finished 
+4204  finished 
+4205  finished 
+4206  finished 
+4207  finished 
+4208  finished 
+4209  finished 
+4210  finished 
+4211  finished 
+4212  finished 
+4213  finished 
+4214  finished 
+4215  finished 
+4216  finished 
+4217  finished 
+4218  finished 
+4219  finished 
+4220  finished 
+4221  finished 
+4222  finished 
+4223  finished 
+4224  finished 
+4225  finished 
+4226  finished 
+4227  finished 
+4228  finished 
+4229  finished 
+4230  finished 
+4231  finished 
+4232  finished 
+4233  finished 
+4234  finished 
+4235  finished 
+4236  finished 
+4237  finished 
+4238  finished 
+4239  finished 
+4240  finished 
+4241  finished 
+4242  finished 
+4243  finished 
+4244  finished 
+4245  finished 
+4246  finished 
+4247  finished 
+4248  finished 
+4249  finished 
+4250  finished 
+4251  finished 
+4252  finished 
+4253  finished 
+4254  finished 
+4255  finished 
+4256  finished 
+4257  finished 
+4258  finished 
+4259  finished 
+4260  finished 
+4261  finished 
+4262  finished 
+4263  finished 
+4264  finished 
+4265  finished 
+4266  finished 
+4267  finished 
+4268  finished 
+4269  finished 
+4270  finished 
+4271  finished 
+4272  finished 
+4273  finished 
+4274  finished 
+4275  finished 
+4276  finished 
+4277  finished 
+4278  finished 
+4279  finished 
+4280  finished 
+4281  finished 
+4282  finished 
+4283  finished 
+4284  finished 
+4285  finished 
+4286  finished 
+4287  finished 
+4288  finished 
+4289  finished 
+4290  finished 
+4291  finished 
+4292  finished 
+4293  finished 
+4294  finished 
+4295  finished 

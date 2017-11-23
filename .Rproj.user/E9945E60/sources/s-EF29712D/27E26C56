@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510678163445.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "0|42|51|0|\n53|41|124|0|\n249|61|261|3|\n270|45|286|0|\n",
+    "hash" : "0",
+    "id" : "27E26C56",
+    "lastKnownWriteTime" : 1510956611,
+    "last_content_update" : 1510956674919,
+    "path" : "~/GitHub/Get_OTTER/OTTER Scraping.R",
+    "project_path" : "OTTER Scraping.R",
+    "properties" : {
+        "cursorPosition" : "136,39",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

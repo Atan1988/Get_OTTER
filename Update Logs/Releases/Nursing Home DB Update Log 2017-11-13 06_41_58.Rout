@@ -1,0 +1,683 @@
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+24571  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+24572  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+Error : Column `Releasestatus` must be a 1d atomic vector or a list
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+
+Selenium message:Element belongs to a different frame than the current one - switch to its containing frame to use it
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: StaleElementReference
+ 	 Detail: An element command failed because the referenced element is no longer attached to the DOM.
+ 	 class: org.openqa.selenium.StaleElementReferenceException
+	 Further Details: run errorDetails method
+24573  finished 
+24574  finished 
+24575  finished 
+24576  finished 
+24577  finished 
+24578  finished 
+24579  finished 
+24580  finished 
+24581  finished 
+24582  finished 
+24583  finished 
+24584  finished 
+24585  finished 
+24586  finished 
+24587  finished 
+24588  finished 
+24589  finished 
+24590  finished 
+24591  finished 
+24592  finished 
+24593  finished 
+24594  finished 
+24595  finished 
+24596  finished 
+24597  finished 
+24598  finished 
+24599  finished 
+24600  finished 
+24601  finished 
+24602  finished 
+24603  finished 
+24604  finished 
+24605  finished 
+24606  finished 
+24607  finished 
+24608  finished 
+24609  finished 
+24610  finished 
+24611  finished 
+24612  finished 
+24613  finished 
+24614  finished 
+24615  finished 
+24616  finished 
+24617  finished 
+24618  finished 
+24619  finished 
+24620  finished 
+24621  finished 
+24622  finished 
+24623  finished 
+24624  finished 
+24625  finished 
+24626  finished 
+24627  finished 
+24628  finished 
+24629  finished 
+24630  finished 
+24631  finished 
+24632  finished 
+24633  finished 
+24634  finished 
+24635  finished 
+24636  finished 
+24637  finished 
+24638  finished 
+24639  finished 
+24640  finished 
+24641  finished 
+24642  finished 
+24643  finished 
+24644  finished 
+24645  finished 
+24646  finished 
+24647  finished 
+24648  finished 
+24649  finished 
+24650  finished 
+24651  finished 
+24652  finished 
+24653  finished 
+24654  finished 
+24655  finished 
+24656  finished 
+24657  finished 
+24658  finished 
+24659  finished 
+24660  finished 
+24661  finished 
+24662  finished 
+24663  finished 
+24664  finished 
+24665  finished 
+24666  finished 
+24667  finished 
+24668  finished 
+24669  finished 
+24670  finished 
+24671  finished 
+24672  finished 
+24673  finished 
+24674  finished 
+24675  finished 
+24676  finished 
+24677  finished 
+24678  finished 
+24679  finished 
+24680  finished 
+24681  finished 
+24682  finished 
+24683  finished 
+24684  finished 
+24685  finished 
+24686  finished 
+24687  finished 
+24688  finished 
+24689  finished 
+24690  finished 
+24691  finished 
+24692  finished 
+24693  finished 
+24694  finished 
+24695  finished 
+24696  finished 
+24697  finished 
+24698  finished 
+24699  finished 
+24700  finished 
+24701  finished 
+24702  finished 
+24703  finished 
+24704  finished 
+24705  finished 
+24706  finished 
+24707  finished 
+24708  finished 
+24709  finished 
+24710  finished 
+24711  finished 
+24712  finished 
+24713  finished 
+24714  finished 
+24715  finished 
+24716  finished 
+24717  finished 
+24718  finished 
+24719  finished 
+24720  finished 
+24721  finished 
+24722  finished 
+24723  finished 
+24724  finished 
+24725  finished 
+24726  finished 
+24727  finished 
+24728  finished 
+24729  finished 
+24730  finished 
+24731  finished 
+24732  finished 
+24733  finished 
+24734  finished 
+24735  finished 
+24736  finished 
+24737  finished 
+24738  finished 
+24739  finished 
+24740  finished 
+24741  finished 
+24742  finished 
+24743  finished 
+24744  finished 
+24745  finished 
+24746  finished 
+24747  finished 
+24748  finished 
+24749  finished 
+24750  finished 
+24751  finished 
+24752  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+24753  finished 
+24754  finished 
+24755  finished 
+24756  finished 
+24757  finished 
+24758  finished 
+24759  finished 
+24760  finished 
+24761  finished 
+24762  finished 
+24763  finished 
+24764  finished 
+24765  finished 
+24766  finished 
+24767  finished 
+24768  finished 
+24769  finished 
+24770  finished 
+24771  finished 
+24772  finished 
+24773  finished 
+24774  finished 
+24775  finished 
+24776  finished 
+24777  finished 
+24778  finished 
+24779  finished 
+24780  finished 
+24781  finished 
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+Error in windows[[2]] : subscript out of bounds
+24782  finished 
+24783  finished 
+24784  finished 
+24785  finished 
+24786  finished 
+24787  finished 
+24788  finished 
+24789  finished 
+24790  finished 
+24791  finished 
+24792  finished 
+24793  finished 
+24794  finished 
+24795  finished 
+24796  finished 
+24797  finished 
+24798  finished 
+24799  finished 
+24800  finished 
+24801  finished 
+24802  finished 
+24803  finished 
+24804  finished 
+24805  finished 
+24806  finished 
+24807  finished 
+24808  finished 
+24809  finished 
+24810  finished 
+24811  finished 
+24812  finished 
+24813  finished 
+24814  finished 
+24815  finished 
+24816  finished 
+24817  finished 
+24818  finished 
+24819  finished 
+24820  finished 
+24821  finished 
+24822  finished 
+24823  finished 
+24824  finished 
+24825  finished 
+24826  finished 
+24827  finished 
+24828  finished 
+24829  finished 
+24830  finished 
+24831  finished 
+24832  finished 
+24833  finished 
+24834  finished 
+24835  finished 
+24836  finished 
+24837  finished 
+24838  finished 
+24839  finished 
+24840  finished 
+24841  finished 
+24842  finished 
+24843  finished 
+24844  finished 
+24845  finished 
+24846  finished 
+24847  finished 
+24848  finished 
+24849  finished 
+24850  finished 
+24851  finished 
+24852  finished 
+24853  finished 
+24854  finished 
+24855  finished 
+24856  finished 
+24857  finished 
+24858  finished 
+24859  finished 
+24860  finished 
+24861  finished 
+24862  finished 
+24863  finished 
+24864  finished 
+24865  finished 
+24866  finished 
+24867  finished 
+24868  finished 
+24869  finished 
+24870  finished 
+24871  finished 
+24872  finished 
+24873  finished 
+24874  finished 
+24875  finished 
+24876  finished 
+24877  finished 
+24878  finished 
+24879  finished 
+24880  finished 
+24881  finished 
+24882  finished 
+24883  finished 
+24884  finished 
+24885  finished 
+24886  finished 
+24887  finished 
+24888  finished 
+24889  finished 
+24890  finished 
+24891  finished 
+24892  finished 
+24893  finished 
+24894  finished 
+24895  finished 
+24896  finished 
+24897  finished 
+24898  finished 
+24899  finished 
+24900  finished 
+24901  finished 
+24902  finished 
+24903  finished 
+24904  finished 
+24905  finished 
+24906  finished 
+24907  finished 
+24908  finished 
+24909  finished 
+24910  finished 
+24911  finished 
+24912  finished 
+24913  finished 
+24914  finished 
+24915  finished 
+24916  finished 
+24917  finished 
+24918  finished 
+24919  finished 
+24920  finished 
+24921  finished 
+24922  finished 
+24923  finished 
+24924  finished 
+24925  finished 
+24926  finished 
+24927  finished 
+24928  finished 
+24929  finished 
+24930  finished 
+24931  finished 
+24932  finished 
+24933  finished 
+24934  finished 
+24935  finished 
+24936  finished 
+24937  finished 
+24938  finished 
+24939  finished 
+24940  finished 
+24941  finished 
+24942  finished 
+24943  finished 
+24944  finished 
+24945  finished 
+24946  finished 
+24947  finished 
+24948  finished 
+24949  finished 
+24950  finished 
+24951  finished 
+24952  finished 
+24953  finished 
+24954  finished 
+24955  finished 
+24956  finished 
+24957  finished 
+24958  finished 
+24959  finished 
+24960  finished 
+24961  finished 
+24962  finished 
+24963  finished 
+24964  finished 
+24965  finished 
+
+Selenium message:Unable to locate element: {"method":"xpath","selector":"//*[@id=\"RefStatusesID\"]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'fc6e52c0cfb3', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.93-boot2docker', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Error : 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+24966  finished 
+24967  finished 
+24968  finished 
+24969  finished 
+24970  finished 
+24971  finished 
+24972  finished 
+24973  finished 
+24974  finished 
+24975  finished 
+24976  finished 
+24977  finished 
+24978  finished 
+24979  finished 
+24980  finished 
+24981  finished 
+24982  finished 
+24983  finished 
+24984  finished 
+24985  finished 
+24986  finished 
+24987  finished 
+24988  finished 
+24989  finished 
+24990  finished 
+24991  finished 
+24992  finished 
+24993  finished 
+24994  finished 
+24995  finished 
+24996  finished 
+24997  finished 
+24998  finished 
+24999  finished 
+25000  finished 
+25001  finished 
+25002  finished 
+25003  finished 
+25004  finished 
+25005  finished 
+25006  finished 
+25007  finished 
+25008  finished 
+25009  finished 
+25010  finished 
+25011  finished 
+25012  finished 
+25013  finished 
+25014  finished 
+25015  finished 
+25016  finished 
+25017  finished 
+25018  finished 
+25019  finished 
+25020  finished 
+25021  finished 
+25022  finished 
+25023  finished 
+25024  finished 
+25025  finished 
+25026  finished 
+25027  finished 
+25028  finished 
+25029  finished 
+25030  finished 
+25031  finished 
+25032  finished 
+25033  finished 
+25034  finished 
+25035  finished 
+25036  finished 
+25037  finished 
+25038  finished 
+25039  finished 
+25040  finished 
+25041  finished 
+25042  finished 
+25043  finished 
+25044  finished 
+25045  finished 
+25046  finished 
+25047  finished 
+25048  finished 
+25049  finished 
+25050  finished 
+25051  finished 
+25052  finished 
+25053  finished 
+25054  finished 
+25055  finished 
+25056  finished 
+25057  finished 
+25058  finished 
+25059  finished 
+25060  finished 
+25061  finished 
+25062  finished 
+25063  finished 
+25064  finished 
+25065  finished 
+25066  finished 
+25067  finished 
+25068  finished 
+25069  finished 
+25070  finished 
+25071  finished 
+25072  finished 
+25073  finished 
+25074  finished 
+25075  finished 
+25076  finished 
+25077  finished 
+25078  finished 
+25079  finished 
+25080  finished 
+25081  finished 
+25082  finished 
+25083  finished 
+25084  finished 
+25085  finished 
+25086  finished 
+25087  finished 
+25088  finished 
+25089  finished 
+25090  finished 
+25091  finished 
+25092  finished 
+25093  finished 
+25094  finished 
+25095  finished 
+25096  finished 
+25097  finished 
+25098  finished 
+25099  finished 
+25100  finished 
+25101  finished 
+25102  finished 
+25103  finished 
+25104  finished 
+25105  finished 
+25106  finished 
+25107  finished 
+25108  finished 
+25109  finished 
+25110  finished 
+25111  finished 
+   user  system elapsed 
+ 189.40    2.02 6107.86 
+1.696706

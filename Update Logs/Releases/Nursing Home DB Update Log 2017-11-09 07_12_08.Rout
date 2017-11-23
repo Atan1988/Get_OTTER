@@ -1,0 +1,28 @@
+1  finished 
+
+Called from: vapply(pieces, "[[", 2, FUN.VALUE = character(1))
+Timing stopped at: 0.92 0.01 71.69
+# A tibble: 1,742 x 4
+   facility_ID ReleaseNumber                         Releasestatus                   LTFstatuss
+         <chr>         <chr>                                 <chr>                        <chr>
+ 1    01009886        N00001                NFA: No Further Action   6 Closure of regulated UST
+ 2    01002645        N00001 SCT: Site Check & Tank Tightness Test 1 SUS/CON from regulated UST
+ 3    01002645        N00002                          CLO: Closure   6 Closure of regulated UST
+ 4    01000161        N00001                NFA: No Further Action   6 Closure of regulated UST
+ 5    01000051        N00001                          CLO: Closure   6 Closure of regulated UST
+ 6    01009584        N00001                NFA: No Further Action 1 SUS/CON from regulated UST
+ 7    01009647        N00001                NFA: No Further Action   6 Closure of regulated UST
+ 8    01000084        N00001                NFA: No Further Action   6 Closure of regulated UST
+ 9    01000019        N00001                          CLO: Closure   6 Closure of regulated UST
+10    01002975        N00001                NFA: No Further Action 1 SUS/CON from regulated UST
+# ... with 1,732 more rows
+function(facility_ID) {
+  for (i in 1:10) {
+    rlt <- get_releases(facility_ID)
+    if(!is.null(rlt)) {
+      return(rlt)
+      break
+    }
+  }
+  return(NULL)
+}

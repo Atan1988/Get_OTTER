@@ -1,0 +1,17 @@
+1  finished 
+
+Called from: Sys.sleep(2)
+Timing stopped at: 0.47 0.04 17.81
+Error in file(paste("Update Logs/Releases/Nursing Home DB Update Log ",  : 
+  cannot open the connection
+In addition: Warning message:
+In file(paste("Update Logs/Releases/Nursing Home DB Update Log ",  :
+  cannot open file 'Update Logs/Releases/Nursing Home DB Update Log 2017-11-08 17:09:19.Rout': Invalid argument
+1  finished 
+2  finished 
+
+Called from: Sys.sleep(2)
+
+Timing stopped at: 1.07 0.05 29
+[1] "Update Logs/Releases/Nursing Home DB Update Log 2017-11-08 17:09:56.Rout"
+45.46777

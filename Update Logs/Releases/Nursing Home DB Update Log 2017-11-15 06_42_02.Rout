@@ -1,0 +1,6 @@
+Error: object 'rel_dfs1' not found
+Error in checkError(res) : 
+  Undefined error in httr call. httr output: Timeout was reached: Connection timed out after 10000 milliseconds
+Called from: checkError(res)
+Timing stopped at: 0.14 0 10.22
+10.29059

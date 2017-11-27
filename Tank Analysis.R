@@ -133,25 +133,25 @@ system.time(fit6 <- gam(cbind(Relct, NRelct) ~ s(AvgAge) + FY + AvgCapacity + Is
                       USTPrimaryReleaseDetection_ATGAutomaticTankGauging + 
                       USTPrimaryReleaseDetection_AMOAlternativeMethodOtherexplain +
                       USTPrimaryReleaseDetection_AMSIRAlternativeMethodSIR +
-                      USTPrimaryReleaseDetection_IMOIntMonitoringOther + 
-                      USTPrimaryReleaseDetection_IMTIntMonitoringDWTank +
-                      USTPrimaryReleaseDetection_MTGHManualTankGauging5512000 + 
-                      USTPrimaryReleaseDetection_MTGLManualTankGauging550 +
-                      USTPrimaryReleaseDetection_NPNonePresent +
+                      # USTPrimaryReleaseDetection_IMOIntMonitoringOther + 
+                      # USTPrimaryReleaseDetection_IMTIntMonitoringDWTank +
+                      # USTPrimaryReleaseDetection_MTGHManualTankGauging5512000 + 
+                      # USTPrimaryReleaseDetection_MTGLManualTankGauging550 +
+                      # USTPrimaryReleaseDetection_NPNonePresent +
                       USTPrimaryReleaseDetection_NRNoneRequiredbyRule +
                       USTConstruction_BMBareMetal + 
                       USTConstruction_CCPSCoatedCathodicallyProtectedSteel +
                       USTConstruction_FRPFiberglassReinforcedPlastic +
-                      USTConstruction_DWFRPFiberglass + 
-                      USTConstruction_CSCladSteel + 
-                      USTConstruction_DWCladSteel +
-                      USTConstruction_JSJacketedSteel + 
-                      USTConstruction_SWCladSteel + 
-                      USTConstruction_SWFRPFiberglass +
+                      # USTConstruction_DWFRPFiberglass + 
+                      # USTConstruction_CSCladSteel + 
+                      # USTConstruction_DWCladSteel +
+                      # USTConstruction_JSJacketedSteel + 
+                      # USTConstruction_SWCladSteel + 
+                      # USTConstruction_SWFRPFiberglass +
                       PipingReleaseDetection_ELLDElectronicLineLeakDetector + 
                       PipingReleaseDetection_MLLDMechanicalLineLeakDetector + 
                       PipingReleaseDetection_SSSafeSuction +
-                      PipingReleaseDetection_OTHOtherexplain, 
+                      #PipingReleaseDetection_OTHOtherexplain, 
                     data = facility_all, family = binomial(link = "logit")))
 
 
